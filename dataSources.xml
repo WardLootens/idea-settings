@@ -1,0 +1,145 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cyberlabv98" read-only="true" uuid="d18be407-d352-4c8a-93dc-f636e28fe17f">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="be1-vm-ft" read-only="true" uuid="2f66b538-329d-4b05-a8f2-f27a1f7eff0d">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-vm-ft:1512:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CYBERLABBLAZIUSV99" read-only="true" uuid="a882e2c9-07ed-4635-a077-01ae860e15b9">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv97" read-only="true" uuid="447b0764-dcab-47d0-8468-2728e5acb13f">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv911WL" read-only="true" uuid="3b852fc8-ff8d-448c-80cf-e94c54d833b8">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv99" read-only="true" uuid="9989c14b-832c-4a4a-b28a-72800e86fba7">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CYBERLABBLAZIUSV94" read-only="true" uuid="557aea36-f09b-4b93-aa6a-39a4df08466c">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlab-01" read-only="true" uuid="ac320831-4cf6-4870-9ceb-d805acbc19eb">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@cyberlab-01:1511:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@vm-tst-cy-lb-tk" uuid="a8a037c9-1a76-4ed1-99f9-180d7874e478">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@vm-tst-cy-lb-tk:1511:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv910" read-only="true" uuid="75aee60e-0bcd-4a2c-b4f3-d2bc01753298">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="be1-tst-cl16" uuid="670b68c1-fd10-45f4-8722-74cfaf389228">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-tst-cl16:1512:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv911kcp" read-only="true" uuid="93000ada-9f3d-4d62-9440-b30a952a555a">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlab_MVD" read-only="true" uuid="d4b5a424-5ad3-41ad-8f4d-d34fede98142">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@192.168.0.22:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv911KN" read-only="true" uuid="83f2f42d-0b23-42a0-b731-ff962b10942a">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv911ITWL" read-only="true" uuid="a4536ada-44e1-471f-8983-ed21f7bbecb7">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CYBERLABBLAZIUSV911" read-only="true" uuid="e3c61297-9542-43f8-8001-1d81df849135">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv910_WL" uuid="f0ddab7f-1d33-487d-a55c-dc48b29dd0b7">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv911WL_DEMO" read-only="true" uuid="b39f587b-b225-4ca3-ab10-a507c7a5fc67">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MIA" uuid="aef81dad-c7f0-4f20-b224-c6ea51cc7d66">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.ddtek.jdbc.openedge.OpenEdgeDriver</jdbc-driver>
+      <jdbc-url>jdbc:datadirect:openedge://mia-server:2525;databaseName=mia;user=MIPSODBC;</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv912" read-only="true" uuid="1d8286f4-cf76-4a03-b10f-22cf4561bc18">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv912WL" uuid="bb70a555-943b-4586-8717-311a4ed9b867">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv911" read-only="true" uuid="34c79fb3-144e-432e-b0ee-713e3d13c92c">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CYBERLABV912ITWL" read-only="true" uuid="37ce349b-dc2d-4112-9728-e711d9d5ab39">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
+  </component>
+</application>
