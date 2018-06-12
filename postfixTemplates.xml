@@ -1,0 +1,16 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="print@userDefined" key=".print" provider="builtin.java" topmost="false" language-level="8">
+      <conditions>
+        <condition id="fqn" fqn="java.util.Collection" />
+      </conditions>
+      <template name="fakeKey" value="$EXPR$.forEach(System.out::println);" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="printMap@userDefined" key=".printMap" provider="builtin.java" topmost="false" language-level="8">
+      <conditions>
+        <condition id="fqn" fqn="java.util.Map" />
+      </conditions>
+      <template name="fakeKey" value="$EXPR$.forEach((k, v) -&gt; System.out.printf(&quot;%s -&gt; %s%n&quot;, k, v));" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
