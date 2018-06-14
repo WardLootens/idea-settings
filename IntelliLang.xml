@@ -4,5 +4,9 @@
       <display-name>FetchMapQuery.FetchMapQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchMapQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchMapQuery"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>FetchScalarQuery.FetchScalarQuery (be.mips.cyberlab.db.query)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchScalarQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchScalarQuery"))]]></place>
+    </injection>
   </component>
 </application>
