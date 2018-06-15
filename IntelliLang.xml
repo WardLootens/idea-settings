@@ -4,6 +4,10 @@
       <display-name>ExistsQuery.ExistsQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("ExistsQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.ExistsQuery"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>FetchListQuery.FetchListQuery (be.mips.cyberlab.db.query)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchListQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchListQuery"))]]></place>
+    </injection>
     <injection language="Oracle" injector-id="java">
       <display-name>FetchMapQuery.FetchMapQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchMapQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchMapQuery"))]]></place>
