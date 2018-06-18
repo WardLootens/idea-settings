@@ -1,6 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="SQL" injector-id="java">
+      <display-name>CountQuery.CountQuery (be.mips.cyberlab.db.query)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("CountQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.CountQuery"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
       <display-name>ExistsQuery.ExistsQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("ExistsQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.ExistsQuery"))]]></place>
     </injection>
