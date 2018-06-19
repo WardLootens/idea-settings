@@ -140,5 +140,11 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="cyberlabv100WL" uuid="3051dce4-2090-403f-829d-8e4fb96c3212">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
   </component>
 </application>
