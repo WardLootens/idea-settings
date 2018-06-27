@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="V10_0_0_1_1__update_queued_for_sending,sql" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
