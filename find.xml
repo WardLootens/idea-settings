@@ -25,11 +25,11 @@
     <mask>*menu*</mask>
     <mask>*.java</mask>
     <mask>*.pom</mask>
-    <mask>pom.xml</mask>
     <mask>BrowserTest.java</mask>
     <mask>*Test.java</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*.scss</mask>
     <mask>Browser.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
