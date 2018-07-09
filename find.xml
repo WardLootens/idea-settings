@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,10 +26,10 @@
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*.scss</mask>
     <mask>Browser.java</mask>
-    <mask>pom.xml</mask>
     <mask>*css*</mask>
     <mask>*.tag</mask>
     <mask>*.jsp*</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
