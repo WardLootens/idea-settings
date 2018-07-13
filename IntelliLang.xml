@@ -20,6 +20,10 @@
       <display-name>FetchScalarQuery.FetchScalarQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchScalarQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchScalarQuery"))]]></place>
     </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>JSONAssert.assertJsonEquals (net.sf.json.test)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertJsonEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("net.sf.json.test.JSONAssert"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>UpdateQuery.UpdateQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("UpdateQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.UpdateQuery"))]]></place>
