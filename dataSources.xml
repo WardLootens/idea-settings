@@ -164,5 +164,11 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-dev-perf1:1512:CYBER12C</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="be1-tst-clab-5" uuid="01890033-ba46-40fc-8299-1d71ac327a7e">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-tst-clab-5:1511:CYBER11G</jdbc-url>
+    </data-source>
   </component>
 </application>
