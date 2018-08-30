@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,7 +31,7 @@
     <mask>*serial*.java</mask>
     <mask>*Criteria.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
