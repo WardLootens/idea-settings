@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Log*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -36,5 +37,6 @@
     <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*Log*.java</mask>
   </component>
 </application>
