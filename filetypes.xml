@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="integration" type="PLAIN_TEXT" />
+      <mapping ext="be1-dev-perf1" type="PLAIN_TEXT" />
       <mapping ext="be1-dev-per1" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="be1-tst-clab-5" type="PLAIN_TEXT" />
