@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*Criteria.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,10 +31,10 @@
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>browser.jsp</mask>
     <mask>*serial*.java</mask>
-    <mask>*Criteria.java</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*Log*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*Criteria.java</mask>
   </component>
 </application>
