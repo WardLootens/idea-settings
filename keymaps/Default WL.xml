@@ -70,6 +70,10 @@
   <action id="TabsPlacementTop">
     <keyboard-shortcut first-keystroke="shift alt t" second-keystroke="t" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt dead_grave" />
+  </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="l" />
   </action>
