@@ -3,9 +3,11 @@
     <option name="customScope" value="Scratches and Consoles" />
     <option name="defaultScopeName" value="Scratches and Consoles" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Scratches and Consoles" />
-    <option name="FILE_MASK" value="scratch_*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -33,7 +35,7 @@
     <mask>*Log*.java</mask>
     <mask>pom.xml</mask>
     <mask>*Criteria.java</mask>
-    <mask>*.java</mask>
     <mask>scratch_*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
