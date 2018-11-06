@@ -18,7 +18,6 @@
     <mask>BrowserTest.java</mask>
     <mask>*Test.java</mask>
     <mask>*.scss</mask>
-    <mask>Browser.java</mask>
     <mask>*css*</mask>
     <mask>*.tag</mask>
     <mask>*.jsp*</mask>
@@ -32,5 +31,6 @@
     <mask>scratch_*.sql</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>Browser.java</mask>
   </component>
 </application>
