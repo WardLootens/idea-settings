@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="sleep" value="try{Thread.sleep($END$000);}catch(InterruptedException e){e.printStackTrace();}" description="Sleep for given amount of time" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
