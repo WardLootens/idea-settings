@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'cyberlabv912'" />
     <option name="defaultScopeName" value="Project 'cyberlabv912'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'cyberlabv912'" />
     <option name="FILE_MASK" value=" *.jsp, *.jspf, *.tag" />
     <mask>*.jsp</mask>
