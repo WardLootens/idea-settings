@@ -1,19 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv100_perf'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv100_perf'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv100_perf'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Criteria.java" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.as</mask>
@@ -35,7 +33,6 @@
     <mask>*serial*.java</mask>
     <mask>*.js</mask>
     <mask>*Log*.java</mask>
-    <mask>*Criteria.java</mask>
     <mask>scratch_*.sql</mask>
     <mask>Browser.java</mask>
     <mask>CIPPatientProcessorIT.java</mask>
@@ -44,5 +41,6 @@
     <mask>pom.xml</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.java</mask>
+    <mask>*Criteria.java</mask>
   </component>
 </application>
