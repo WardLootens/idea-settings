@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="_cyberlab.scss" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -35,5 +35,6 @@
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*.scss</mask>
     <mask>*.properties</mask>
+    <mask>_cyberlab.scss</mask>
   </component>
 </application>
