@@ -3,10 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java, *.jsp, *.jspf, *.tag" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -33,9 +34,9 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*Criteria.java</mask>
     <mask>*.java</mask>
-    <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*.scss</mask>
     <mask>*.properties</mask>
     <mask>_cyberlab.scss</mask>
+    <mask>*.java, *.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
