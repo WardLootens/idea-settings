@@ -5,12 +5,12 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>install*.*</mask>
-    <mask>*IT.java</mask>
     <mask>playground*</mask>
     <mask>*menu*</mask>
     <mask>*.pom</mask>
@@ -35,5 +35,6 @@
     <mask>*.properties</mask>
     <mask>_cyberlab.scss</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
