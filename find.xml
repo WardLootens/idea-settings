@@ -26,7 +26,6 @@
     <mask>scratch_*.sql</mask>
     <mask>Browser.java</mask>
     <mask>CIPPatientProcessorIT.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*Criteria.java</mask>
     <mask>*.java</mask>
@@ -35,5 +34,6 @@
     <mask>_cyberlab.scss</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*IT.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
