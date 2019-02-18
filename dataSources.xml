@@ -195,5 +195,11 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="cyberlabv913WL" uuid="f105de76-bad0-4bad-898d-b646a8e0077e">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+    </data-source>
   </component>
 </application>
