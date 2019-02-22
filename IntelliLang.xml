@@ -24,6 +24,10 @@
       <display-name>JSONAssert.assertJsonEquals (net.sf.json.test)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertJsonEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("net.sf.json.test.JSONAssert"))]]></place>
     </injection>
+    <injection language="XML" injector-id="java">
+      <display-name>Matchers.isSameXml (be.mips.cyberlab.util)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isSameXml").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.util.Matchers"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>UpdateQuery.UpdateQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("UpdateQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.UpdateQuery"))]]></place>
