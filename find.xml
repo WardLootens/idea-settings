@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'cyberlabv913'" />
+    <option name="defaultScopeName" value="Project 'cyberlabv913'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'cyberlabv913'" />
     <mask>*.mxml</mask>
     <mask>install*.*</mask>
     <mask>playground*</mask>
