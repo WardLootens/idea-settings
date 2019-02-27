@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="har" type="JSON" />
-      <mapping ext="cyberlabv913wl" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="integration" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="be1-tst-clab-5" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="be1-dev-per1" type="PLAIN_TEXT" />
       <mapping ext="be1-dev-perf1" type="PLAIN_TEXT" />
       <mapping ext="100wlpam" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="cyberlabv913wl" type="PLAIN_TEXT" />
       <mapping pattern="V10_0_0_1_1__update_queued_for_sending,sql" type="SQL" />
     </extensionMap>
   </component>
