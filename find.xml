@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv100'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv100'" />
+    <option name="customScope" value="File '...\products\cyberlab\test\be\mips\cyberlab\business\VisitBrwIT.java [cyberlab]'" />
+    <option name="defaultScopeName" value="File '...\products\cyberlab\test\be\mips\cyberlab\business\VisitBrwIT.java [cyberlab]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv100'" />
+    <option name="SEARCH_SCOPE" value="File '...\products\cyberlab\test\be\mips\cyberlab\business\VisitBrwIT.java [cyberlab]'" />
     <mask>*.mxml</mask>
     <mask>install*.*</mask>
     <mask>playground*</mask>
