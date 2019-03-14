@@ -5,4 +5,12 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\btodo cyberlab-07847\b.*" />
+    <filter name="CyberLab-07847">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
