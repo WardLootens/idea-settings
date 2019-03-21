@@ -9,6 +9,8 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\btodo cyberlab-07847\b.*" />
+    <pattern pattern="\btodo wl\b.*" />
+    <pattern pattern="\btodo kn\b.*" />
     <filter name="CyberLab-07847">
       <pattern index="2" />
     </filter>
