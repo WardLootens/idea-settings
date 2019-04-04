@@ -77,7 +77,7 @@
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@be1-lt-mvd2:1521:CYBER12C</jdbc-url>
+      <jdbc-url>jdbc:oracle:thin:@be1-lt-mvd2:1512:CYBER12C</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="cyberlabv911KN" read-only="true" uuid="83f2f42d-0b23-42a0-b731-ff962b10942a">
       <driver-ref>oracle</driver-ref>
