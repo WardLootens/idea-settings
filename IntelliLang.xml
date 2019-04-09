@@ -50,6 +50,10 @@
       <display-name>FetchScalarQuery.FetchScalarQuery (be.mips.cyberlab.db.query)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchScalarQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchScalarQuery"))]]></place>
     </injection>
+    <injection language="H2" injector-id="java">
+      <display-name>InsertQuery.InsertQuery (be.mips.cyberlab.apperf.db)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("InsertQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.apperf.db.InsertQuery"))]]></place>
+    </injection>
     <injection language="JSON" injector-id="java">
       <display-name>JSONAssert.assertJsonEquals (net.sf.json.test)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertJsonEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("net.sf.json.test.JSONAssert"))]]></place>
@@ -57,6 +61,10 @@
     <injection language="XML" injector-id="java">
       <display-name>Matchers.isSameXml (be.mips.cyberlab.util)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isSameXml").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.util.Matchers"))]]></place>
+    </injection>
+    <injection language="H2" injector-id="java">
+      <display-name>UpdateQuery.UpdateQuery (be.mips.cyberlab.apperf.db)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("UpdateQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.apperf.db.UpdateQuery"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>UpdateQuery.UpdateQuery (be.mips.cyberlab.db.query)</display-name>
