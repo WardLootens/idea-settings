@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>playground*</mask>
+    <option name="FILE_MASK" value="*.puml" />
     <mask>*menu*</mask>
     <mask>*.pom</mask>
     <mask>BrowserTest.java</mask>
@@ -35,5 +35,6 @@
     <mask>*.java</mask>
     <mask>Browser.java</mask>
     <mask>*.scss</mask>
+    <mask>*.puml</mask>
   </component>
 </application>
