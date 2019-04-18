@@ -5,4 +5,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="expex" value="@Rule&#10;public ExpectedException expectedException = ExpectedException.none();" description="Add ExpectedException rule" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
