@@ -1,8 +1,8 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="C:\workspace\opt\Jetbrains\Toolbox\apps\IDEA-U\ch-0\191.6183.87\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:/workspace/opt/Jetbrains/Toolbox/apps/IDEA-U/ch-0/191.6183.87/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/wardl/.m2/repository" />
-    <macro name="RUBY_HOME" value="C:/workspace/opt/Ruby24-x64" />
+    <macro name="RUBY_HOME" value="C:/workspace/opt/Ruby25-x64" />
     <macro name="XREBEL_HOME" value="C:/workspace/opt/zeroturnaround/xrebel" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
