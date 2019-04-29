@@ -31,7 +31,6 @@
     <mask>browser*</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
-    <mask>*.js</mask>
     <mask>*Criteria*.java</mask>
     <mask>*.java</mask>
     <mask>Browser.java</mask>
@@ -39,5 +38,6 @@
     <mask>*.puml</mask>
     <mask>*Properties.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
