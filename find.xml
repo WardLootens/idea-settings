@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java, *.jsp, *.jspf, *.tag,*.js" />
     <mask>*.pom</mask>
     <mask>BrowserTest.java</mask>
     <mask>*Test.java</mask>
@@ -30,7 +31,6 @@
     <mask>*.sql</mask>
     <mask>browser*</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
-    <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*Criteria*.java</mask>
     <mask>*.java</mask>
     <mask>Browser.java</mask>
@@ -39,5 +39,6 @@
     <mask>*Properties.java</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
+    <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
   </component>
 </application>
