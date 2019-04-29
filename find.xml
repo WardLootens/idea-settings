@@ -35,7 +35,7 @@
     <mask>Browser.java</mask>
     <mask>*.scss</mask>
     <mask>*.puml</mask>
-    <mask>pom.xml</mask>
     <mask>*Properties.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
