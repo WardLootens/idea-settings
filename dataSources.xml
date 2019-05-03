@@ -207,5 +207,12 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="be1-tst-support" uuid="6569f82c-c864-4bf1-a3c1-9347fabd33fe">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-tst-support:1511:CYBER11G</jdbc-url>
+    </data-source>
   </component>
 </application>
