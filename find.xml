@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cyberlab-client'" />
-    <option name="defaultScopeName" value="Project 'cyberlab-client'" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlab-client'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.pom</mask>
     <mask>BrowserTest.java</mask>
     <mask>*Test.java</mask>
@@ -26,12 +27,12 @@
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
-    <mask>*.scss</mask>
     <mask>*.puml</mask>
     <mask>*Properties.java</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
