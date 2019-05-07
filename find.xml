@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\labelprinter\epl2img\src\main\java\be\mips\cyberlab\labelprinter\epl2img\util\DimensionLogger.java [labelprinter-epl2img]'" />
+    <option name="defaultScopeName" value="File '...\labelprinter\epl2img\src\main\java\be\mips\cyberlab\labelprinter\epl2img\util\DimensionLogger.java [labelprinter-epl2img]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\labelprinter\epl2img\src\main\java\be\mips\cyberlab\labelprinter\epl2img\util\DimensionLogger.java [labelprinter-epl2img]'" />
     <mask>*.pom</mask>
     <mask>BrowserTest.java</mask>
     <mask>*Test.java</mask>
