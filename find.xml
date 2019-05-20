@@ -32,10 +32,10 @@
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.java</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.sql</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
