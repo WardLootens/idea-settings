@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="business-package" />
+    <option name="defaultScopeName" value="business-package" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="SEARCH_SCOPE" value="business-package" />
     <mask>BrowserTest.java</mask>
     <mask>*Test.java</mask>
     <mask>*css*</mask>
