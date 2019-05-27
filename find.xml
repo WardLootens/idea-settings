@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>BrowserTest.java</mask>
+    <option name="FILE_MASK" value="select*.js" />
     <mask>*Test.java</mask>
     <mask>*css*</mask>
     <mask>*.tag</mask>
@@ -33,5 +33,6 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.js</mask>
+    <mask>select*.js</mask>
   </component>
 </application>
