@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Test.java</mask>
+    <option name="FILE_MASK" value="_sky-mega-menu.scss" />
     <mask>*css*</mask>
     <mask>*.tag</mask>
     <mask>*.jsp*</mask>
@@ -27,7 +27,6 @@
     <mask>*Properties.java</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.java</mask>
-    <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.sql</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
@@ -35,5 +34,7 @@
     <mask>select*.js</mask>
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
+    <mask>*.jsp, *.jspf, *.tag,*.js</mask>
+    <mask>_sky-mega-menu.scss</mask>
   </component>
 </application>
