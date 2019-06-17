@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.tag</mask>
+    <option name="FILE_MASK" value="editor.jsp" />
     <mask>*.jsp*</mask>
     <mask>browser.jsp</mask>
     <mask>*serial*.java</mask>
@@ -37,5 +37,6 @@
     <mask>*.tag``</mask>
     <mask>*IT.java</mask>
     <mask>*.scss</mask>
+    <mask>editor.jsp</mask>
   </component>
 </application>
