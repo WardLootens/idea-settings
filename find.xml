@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>browser.jsp</mask>
     <mask>*serial*.java</mask>
     <mask>*Log*.java</mask>
@@ -25,7 +26,6 @@
     <mask>*.puml</mask>
     <mask>*Properties.java</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>_sky-mega-menu.scss</mask>
@@ -39,5 +39,6 @@
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
+    <mask>*.java</mask>
   </component>
 </application>
