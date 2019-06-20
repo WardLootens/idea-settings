@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="web-package" />
+    <option name="defaultScopeName" value="web-package" />
     <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="web-package" />
+    <option name="FILE_MASK" value="*.jsp, *.jspf, *.tag" />
     <mask>browser.jsp</mask>
     <mask>*serial*.java</mask>
     <mask>*Log*.java</mask>
@@ -24,8 +27,6 @@
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>_sky-mega-menu.scss</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>select*.js</mask>
     <mask>*.js</mask>
     <mask>*.tag``</mask>
@@ -35,5 +36,7 @@
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
