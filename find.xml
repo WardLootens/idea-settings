@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="web-package" />
     <option name="defaultScopeName" value="web-package" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="web-package" />
     <mask>browser.jsp</mask>
     <mask>*serial*.java</mask>
