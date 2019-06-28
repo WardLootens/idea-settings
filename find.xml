@@ -11,7 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.jsp, *.jspf, *.tag" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>browser.jsp</mask>
     <mask>*serial*.java</mask>
     <mask>*Log*.java</mask>
@@ -33,7 +33,6 @@
     <mask>*.js</mask>
     <mask>*.tag``</mask>
     <mask>*IT.java</mask>
-    <mask>*.scss</mask>
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>pom.xml</mask>
@@ -42,5 +41,6 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.properties</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
