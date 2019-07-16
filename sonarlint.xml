@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.mips.be" />
+          <token>dfcedfcbdf9cdf9fdfcfdfc8dfccdf9adfc9dfcfdf9fdf9cdfc9dfcfdf99df98df99df92df9ddf9cdf93df9adf92df9fdfcedfc8df9edf98df9ddfc8df9ddfcbdfcedfc8df9ddfcedf9fdf9ddfcbdf9a</token>
+          <option name="name" value="sonar.mips.be" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
