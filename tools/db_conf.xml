@@ -27,4 +27,18 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
+  <tool name="DB - 10.1 WL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="PARAMETERS" value="db.conf.custom.101WL db.conf" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
+    </exec>
+  </tool>
+  <tool name="DB - 10.1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="PARAMETERS" value="db.conf.custom.101 db.conf" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
+    </exec>
+  </tool>
 </toolSet>
