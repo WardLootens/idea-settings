@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv100'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv100'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv100'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp, *.jspf, *.tag" />
     <mask>scratch_*.sql</mask>
     <mask>CIPPatientProcessorIT.java</mask>
     <mask>_cyberlab.scss</mask>
@@ -31,8 +32,6 @@
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>pom.xml</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.scss</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
@@ -41,5 +40,7 @@
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
