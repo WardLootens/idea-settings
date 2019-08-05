@@ -37,10 +37,10 @@
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
   </component>
 </application>
