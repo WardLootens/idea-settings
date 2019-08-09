@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java,*.jsp, *.jspf, *.tag, *.js" />
     <mask>CIPPatientProcessorIT.java</mask>
     <mask>_cyberlab.scss</mask>
     <mask>V*.sql</mask>
@@ -24,7 +25,6 @@
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
-    <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -35,5 +35,6 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.js</mask>
+    <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
   </component>
 </application>
