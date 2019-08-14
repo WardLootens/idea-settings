@@ -5,7 +5,6 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>_cyberlab.scss</mask>
     <mask>V*.sql</mask>
     <mask>*Criteria.java</mask>
     <mask>browser*</mask>
@@ -35,5 +34,6 @@
     <mask>*.js</mask>
     <mask>*.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
