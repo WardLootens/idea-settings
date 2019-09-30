@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>V*.sql</mask>
     <mask>*Criteria.java</mask>
     <mask>browser*</mask>
