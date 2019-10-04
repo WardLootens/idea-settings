@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Criteria.java</mask>
     <mask>browser*</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
@@ -35,9 +36,9 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>dbinit*.sql</mask>
     <mask>*.tag</mask>
+    <mask>*.js</mask>
   </component>
 </application>
