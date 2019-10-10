@@ -39,8 +39,8 @@
     <mask>dbinit*.sql</mask>
     <mask>*.tag</mask>
     <mask>*.jspf</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
