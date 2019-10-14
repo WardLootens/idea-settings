@@ -38,8 +38,8 @@
     <mask>*.tag</mask>
     <mask>*.jspf</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
