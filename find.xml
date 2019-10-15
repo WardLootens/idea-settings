@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>browser*</mask>
+    <option name="FILE_MASK" value="*.cmd" />
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
@@ -39,5 +39,6 @@
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.scss</mask>
+    <mask>*.cmd</mask>
   </component>
 </application>
