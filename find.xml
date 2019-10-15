@@ -32,8 +32,8 @@
     <mask>*.js</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
-    <mask>*.scss</mask>
     <mask>*.cmd</mask>
     <mask>pom.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
