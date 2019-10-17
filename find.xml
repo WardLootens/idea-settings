@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.java, *.jsp, *.jspf, *.tag</mask>
+    <option name="FILE_MASK" value="*WithSystemOverrides.java" />
     <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
     <mask>*.puml</mask>
@@ -37,5 +37,6 @@
     <mask>*.sql</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.js</mask>
+    <mask>*WithSystemOverrides.java</mask>
   </component>
 </application>
