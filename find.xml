@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp, *.jspf, *.tag, *.js" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.java, *.jsp, *.jspf, *.tag</mask>
     <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
@@ -28,7 +28,6 @@
     <mask>dbinit*.sql</mask>
     <mask>*.tag</mask>
     <mask>*.jspf</mask>
-    <mask>*.js</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.cmd</mask>
@@ -36,5 +35,6 @@
     <mask>*.scss</mask>
     <mask>*.sql</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
