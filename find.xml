@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cmd" />
     <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
     <mask>*.puml</mask>
@@ -32,12 +33,12 @@
     <mask>*.jspf</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
-    <mask>*.cmd</mask>
-    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.js</mask>
     <mask>*WithSystemOverrides.java</mask>
     <mask>*.scss</mask>
+    <mask>pom.xml</mask>
+    <mask>*.cmd</mask>
   </component>
 </application>
