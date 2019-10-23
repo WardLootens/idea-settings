@@ -3,14 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
     <mask>*.puml</mask>
@@ -30,7 +27,6 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>dbinit*.sql</mask>
     <mask>*.tag</mask>
-    <mask>*.jspf</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.sql</mask>
@@ -40,6 +36,7 @@
     <mask>pom.xml</mask>
     <mask>*.cmd</mask>
     <mask>*.scss</mask>
+    <mask>*.jspf</mask>
     <mask>*.jsp</mask>
   </component>
 </application>
