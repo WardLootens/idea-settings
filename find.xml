@@ -7,8 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.jsp, *.jspf, *.tag" />
-    <mask>*Criteria*.java</mask>
     <mask>Browser.java</mask>
     <mask>*.puml</mask>
     <mask>*Properties.java</mask>
@@ -38,5 +36,6 @@
     <mask>*.jspf</mask>
     <mask>*.jsp</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
+    <mask>*v10.tag</mask>
   </component>
 </application>
