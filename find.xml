@@ -22,7 +22,6 @@
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.css</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>dbinit*.sql</mask>
     <mask>*.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
@@ -37,6 +36,7 @@
     <mask>*.jsp</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*v10.tag</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
