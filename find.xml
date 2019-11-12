@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>Browser.java</mask>
@@ -28,7 +28,6 @@
     <mask>*WithSystemOverrides.java</mask>
     <mask>pom.xml</mask>
     <mask>*.cmd</mask>
-    <mask>*.scss</mask>
     <mask>*.jspf</mask>
     <mask>*.jsp</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
@@ -36,5 +35,6 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
