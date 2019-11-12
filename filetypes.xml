@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="har" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="be1-dt-wl2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="be1-dev-perf1" type="PLAIN_TEXT" />
