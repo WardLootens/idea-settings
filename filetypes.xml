@@ -8,6 +8,7 @@
       <mapping ext="be1-dt-wl2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="be1-dev-linux01" type="PLAIN_TEXT" />
       <mapping ext="be1-dev-perf1" type="PLAIN_TEXT" />
       <mapping ext="be1-tst-clab-5" type="PLAIN_TEXT" />
       <mapping ext="integration" type="PLAIN_TEXT" />
