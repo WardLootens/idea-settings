@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="har" type="JSON" />
+      <mapping pattern="CyberLab-09094.md" type="Markdown" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="be1-dt-wl2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
