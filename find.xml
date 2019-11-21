@@ -5,14 +5,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
-    <mask>*.puml</mask>
     <mask>*Properties.java</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>_sky-mega-menu.scss</mask>
@@ -37,10 +33,11 @@
     <mask>*v10.tag</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css</mask>
     <mask>*.java</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
-    <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.css</mask>
+    <mask>*.jsp, *.jspf, *.tag, *.js, .*css,*.scss</mask>
     <mask>*.scss</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
+    <mask>*.jsp, *.jspf, *.tag</mask>
   </component>
 </application>
