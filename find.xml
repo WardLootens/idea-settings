@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp, *.jspf, *.tag, *.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.puml</mask>
     <mask>*Properties.java</mask>
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
@@ -23,7 +23,6 @@
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>*.properties</mask>
     <mask>*Test.java</mask>
-    <mask>*.css</mask>
     <mask>dbinit*.sql</mask>
     <mask>*.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
@@ -38,9 +37,10 @@
     <mask>*v10.tag</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css</mask>
     <mask>*.java</mask>
-    <mask>*.scss</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
+    <mask>*.css</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
