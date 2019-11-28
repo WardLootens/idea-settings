@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>_sky-mega-menu.scss</mask>
     <mask>select*.js</mask>
@@ -31,9 +30,9 @@
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.css</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css,*.scss</mask>
-    <mask>*.scss</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*ialog*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
