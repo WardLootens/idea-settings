@@ -18,8 +18,9 @@
     <pattern pattern="\btodo cyberlab-08978\b.*" />
     <pattern pattern="\btodo wl\b.*" />
     <pattern pattern="\btodo kn\b.*" />
-    <filter name="CyberLab-08978">
-      <pattern index="2" />
+    <pattern pattern="\btodo cyberlab-09094\b.*" />
+    <filter name="CyberLab-09094">
+      <pattern index="5" />
     </filter>
   </component>
 </application>
