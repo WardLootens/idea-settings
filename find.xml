@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>_sky-mega-menu.scss</mask>
     <mask>select*.js</mask>
@@ -22,7 +23,6 @@
     <mask>*.tag</mask>
     <mask>*.java,*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*WithSystemOverrides.java</mask>
     <mask>pom.xml</mask>
     <mask>*.jspf</mask>
@@ -41,5 +41,6 @@
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.cmd</mask>
+    <mask>*.js</mask>
   </component>
 </application>
