@@ -34,12 +34,12 @@
     <mask>*.css</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css,*.scss</mask>
     <mask>*ialog*</mask>
-    <mask>*.scss</mask>
     <mask>*.properties</mask>
     <mask>*IT.java</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
     <mask>*.cmd</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
