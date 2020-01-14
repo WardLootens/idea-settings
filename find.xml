@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv101'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv101'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv101'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>_sky-mega-menu.scss</mask>
     <mask>select*.js</mask>
@@ -27,7 +28,6 @@
     <mask>*.java,*.jsp, *.jspf, *.tag</mask>
     <mask>*v10.tag</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css</mask>
-    <mask>*.java</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js</mask>
     <mask>*.css</mask>
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css,*.scss</mask>
@@ -39,5 +39,6 @@
     <mask>*.cmd</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.java</mask>
   </component>
 </application>
