@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv101'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv101'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
@@ -12,7 +12,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv101'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>_sky-mega-menu.scss</mask>
     <mask>select*.js</mask>
