@@ -6,20 +6,20 @@
       <mapping ext="har" type="JSON" />
       <mapping pattern="CyberLab-09094.md" type="Markdown" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="integration" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="be1-tst-clab-5" type="PLAIN_TEXT" />
       <mapping ext="be1-dt-wl2" type="PLAIN_TEXT" />
-      <mapping ext="be1-dev-per1" type="PLAIN_TEXT" />
-      <mapping ext="be1-dev-perf1" type="PLAIN_TEXT" />
-      <mapping ext="100wlpam" type="PLAIN_TEXT" />
-      <mapping ext="cyberlabv913wl" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="101wl09049" type="PLAIN_TEXT" />
-      <mapping ext="be1-lt-mvd2" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="be1-dev-linux01" type="PLAIN_TEXT" />
+      <mapping ext="be1-dev-perf1" type="PLAIN_TEXT" />
+      <mapping ext="be1-tst-clab-5" type="PLAIN_TEXT" />
+      <mapping ext="integration" type="PLAIN_TEXT" />
+      <mapping ext="be1-dev-per1" type="PLAIN_TEXT" />
+      <mapping ext="cyberlabv913wl" type="PLAIN_TEXT" />
+      <mapping ext="101wl09049" type="PLAIN_TEXT" />
+      <mapping ext="100wlpam" type="PLAIN_TEXT" />
+      <mapping ext="be1-lt-mvd2" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
