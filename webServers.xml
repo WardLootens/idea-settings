@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="42b995a7-b6c6-437a-bf5f-ea6fb6fac023" name="barcodes@ftp.whocarez.be" url="https://www.whocarez.be/cyberlab/barcodes">
+        <fileTransfer host="ftp.whocarez.be" port="21" rootFolder="/public_html/cyberlab/barcodes">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
