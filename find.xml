@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.java, *.jsp, *.jspf, *.tag,*.js</mask>
     <mask>_sky-mega-menu.scss</mask>
     <mask>select*.js</mask>
@@ -33,7 +34,7 @@
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.properties</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
