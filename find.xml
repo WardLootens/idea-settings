@@ -33,7 +33,6 @@
     <mask>*IT.java</mask>
     <mask>*.cmd</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>!*.properties</mask>
     <mask>*.jsp, *.jspf, *.tag</mask>
@@ -41,5 +40,6 @@
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css,*.scss</mask>
     <mask>*.scss</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
