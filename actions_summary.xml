@@ -309,8 +309,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505043057" />
-              <option name="times" value="1843" />
+              <option name="last" value="1581507341588" />
+              <option name="times" value="1844" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505181564" />
-              <option name="times" value="441" />
+              <option name="last" value="1581507418699" />
+              <option name="times" value="443" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,16 +653,16 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504813209" />
-              <option name="times" value="128" />
+              <option name="last" value="1581507418901" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504803058" />
-              <option name="times" value="91" />
+              <option name="last" value="1581507339396" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504111820" />
-              <option name="times" value="8" />
+              <option name="last" value="1581506754029" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -1101,8 +1101,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505446745" />
-              <option name="times" value="691" />
+              <option name="last" value="1581506757388" />
+              <option name="times" value="692" />
             </ActionSummary>
           </value>
         </entry>
@@ -1749,8 +1749,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505366608" />
-              <option name="times" value="99" />
+              <option name="last" value="1581506762325" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
@@ -1893,8 +1893,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504243404" />
-              <option name="times" value="39" />
+              <option name="last" value="1581506776672" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
