@@ -109,8 +109,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609239891" />
-              <option name="times" value="337" />
+              <option name="last" value="1581667268810" />
+              <option name="times" value="338" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="CodeCompletion">
           <value>
             <ActionSummary>
-              <option name="last" value="1581605392628" />
-              <option name="times" value="76" />
+              <option name="last" value="1581667266577" />
+              <option name="times" value="129" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +589,8 @@
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581610658058" />
-              <option name="times" value="225" />
+              <option name="last" value="1581667266601" />
+              <option name="times" value="226" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +717,8 @@
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1581611216314" />
-              <option name="times" value="71" />
+              <option name="last" value="1581667227938" />
+              <option name="times" value="73" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,24 +853,24 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581609023866" />
-              <option name="times" value="107" />
+              <option name="last" value="1581667315370" />
+              <option name="times" value="109" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581665166975" />
-              <option name="times" value="470" />
+              <option name="last" value="1581667263185" />
+              <option name="times" value="471" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581666394447" />
-              <option name="times" value="67" />
+              <option name="last" value="1581667321041" />
+              <option name="times" value="68" />
             </ActionSummary>
           </value>
         </entry>
@@ -1997,8 +1997,8 @@
         <entry key="com.intellij.ide.util.FileStructurePopup$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608657139" />
-              <option name="times" value="53" />
+              <option name="last" value="1581667229337" />
+              <option name="times" value="55" />
             </ActionSummary>
           </value>
         </entry>
@@ -2045,8 +2045,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581666398936" />
-              <option name="times" value="334" />
+              <option name="last" value="1581667216265" />
+              <option name="times" value="335" />
             </ActionSummary>
           </value>
         </entry>
