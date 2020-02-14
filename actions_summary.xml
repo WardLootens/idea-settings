@@ -493,8 +493,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688988574" />
-              <option name="times" value="730" />
+              <option name="last" value="1581694473352" />
+              <option name="times" value="731" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,8 +749,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581678772624" />
-              <option name="times" value="110" />
+              <option name="last" value="1581694470944" />
+              <option name="times" value="111" />
             </ActionSummary>
           </value>
         </entry>
@@ -877,8 +877,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581693617423" />
-              <option name="times" value="75" />
+              <option name="last" value="1581694467955" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
@@ -1933,8 +1933,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671088199" />
-              <option name="times" value="6" />
+              <option name="last" value="1581694477712" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
