@@ -53,8 +53,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581954170102" />
-              <option name="times" value="844" />
+              <option name="last" value="1581967110574" />
+              <option name="times" value="846" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966638808" />
-              <option name="times" value="348" />
+              <option name="last" value="1581967759891" />
+              <option name="times" value="352" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +405,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966650111" />
-              <option name="times" value="4168" />
+              <option name="last" value="1581967891726" />
+              <option name="times" value="4175" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966397770" />
-              <option name="times" value="892" />
+              <option name="last" value="1581967899134" />
+              <option name="times" value="896" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,16 +501,16 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966590530" />
-              <option name="times" value="1633" />
+              <option name="last" value="1581967329794" />
+              <option name="times" value="1637" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966542468" />
-              <option name="times" value="656" />
+              <option name="last" value="1581967771798" />
+              <option name="times" value="658" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966380060" />
-              <option name="times" value="856" />
+              <option name="last" value="1581967891347" />
+              <option name="times" value="857" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581966400813" />
-              <option name="times" value="802" />
+              <option name="last" value="1581967750987" />
+              <option name="times" value="805" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581945359560" />
-              <option name="times" value="44" />
+              <option name="last" value="1581967895283" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -877,8 +877,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581942883722" />
-              <option name="times" value="18" />
+              <option name="last" value="1581967083769" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -909,8 +909,8 @@
         <entry key="Git.SelectInGitLog">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946350796" />
-              <option name="times" value="2" />
+              <option name="last" value="1581967723369" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1669,8 +1669,8 @@
         <entry key="Vcs.CherryPick">
           <value>
             <ActionSummary>
-              <option name="last" value="1581945804309" />
-              <option name="times" value="5" />
+              <option name="last" value="1581967736283" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1725,8 +1725,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581942414286" />
-              <option name="times" value="56" />
+              <option name="last" value="1581967901112" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -1743,6 +1743,14 @@
             <ActionSummary>
               <option name="last" value="1581945066881" />
               <option name="times" value="13" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.ShowHistoryForRevision">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581967690631" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1765,8 +1773,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581945136662" />
-              <option name="times" value="26" />
+              <option name="last" value="1581967118209" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
@@ -1901,8 +1909,8 @@
         <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyOpenInEditorAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581953217801" />
-              <option name="times" value="51" />
+              <option name="last" value="1581967303298" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -2165,8 +2173,8 @@
         <entry key="com.intellij.notification.NotificationAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608607522" />
-              <option name="times" value="4" />
+              <option name="last" value="1581967146476" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -2277,8 +2285,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581941483101" />
-              <option name="times" value="55" />
+              <option name="last" value="1581967158074" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
@@ -2485,16 +2493,16 @@
         <entry key="com.intellij.vcs.log.ui.filter.BranchFilterPopupComponent$MyBranchPopupBuilder$BranchFilterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946359344" />
-              <option name="times" value="10" />
+              <option name="last" value="1581967705606" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.vcs.log.ui.filter.FilterPopupComponent$AllAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581321147432" />
-              <option name="times" value="2" />
+              <option name="last" value="1581967717856" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -2525,32 +2533,40 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581945361609" />
-              <option name="times" value="3" />
+              <option name="last" value="1581967250400" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581945127057" />
-              <option name="times" value="9" />
+              <option name="last" value="1581967849735" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581086639074" />
-              <option name="times" value="1" />
+              <option name="last" value="1581967881427" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581945117350" />
-              <option name="times" value="3" />
+              <option name="last" value="1581967898534" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RebaseAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581967863461" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
