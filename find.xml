@@ -5,14 +5,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
-    <mask>select*.js</mask>
     <mask>*.tag``</mask>
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
@@ -40,7 +38,8 @@
     <mask>*.jsp, *.jspf, *.tag, *.js, .*css,*.scss</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*,scss</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

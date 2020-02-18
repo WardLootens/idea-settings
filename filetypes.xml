@@ -2,10 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="byPatient" type="JSON" />
-      <mapping pattern="byOrderCode" type="JSON" />
-      <mapping pattern="byOrder" type="JSON" />
       <mapping pattern="byCode" type="JSON" />
+      <mapping pattern="AMBIGUOUS" type="JSON" />
+      <mapping pattern="NOTFOUND" type="JSON" />
+      <mapping pattern="byOrderCode" type="JSON" />
+      <mapping pattern="AY351A0WX3" type="JSON" />
+      <mapping pattern="AV331A34MI" type="JSON" />
       <mapping pattern="AB371A44QQ" type="JSON" />
+      <mapping pattern="AJ361A1LPE" type="JSON" />
+      <mapping pattern="byOrder" type="JSON" />
       <mapping pattern="bySexAndBirthDate" type="JSON" />
       <mapping pattern="CyberLab-09094.md" type="Markdown" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
