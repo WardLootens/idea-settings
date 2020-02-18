@@ -5,6 +5,7 @@
       <mapping pattern="byOrderCode" type="JSON" />
       <mapping pattern="byOrder" type="JSON" />
       <mapping pattern="byCode" type="JSON" />
+      <mapping pattern="AB371A44QQ" type="JSON" />
       <mapping pattern="bySexAndBirthDate" type="JSON" />
       <mapping pattern="CyberLab-09094.md" type="Markdown" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
