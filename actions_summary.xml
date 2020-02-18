@@ -893,8 +893,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1582013922911" />
-              <option name="times" value="22" />
+              <option name="last" value="1582021924337" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -1941,8 +1941,8 @@
         <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582011620497" />
-              <option name="times" value="1188" />
+              <option name="last" value="1582021956771" />
+              <option name="times" value="1197" />
             </ActionSummary>
           </value>
         </entry>
@@ -2333,8 +2333,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014122202" />
-              <option name="times" value="64" />
+              <option name="last" value="1582021953040" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
@@ -2389,8 +2389,8 @@
         <entry key="com.intellij.openapi.vcs.ui.FlatSpeedSearchPopup$MySpeedSearchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014095281" />
-              <option name="times" value="18" />
+              <option name="last" value="1582021933878" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
