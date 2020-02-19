@@ -93,8 +93,8 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116355699" />
-              <option name="times" value="145" />
+              <option name="last" value="1582120738020" />
+              <option name="times" value="146" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="CallHierarchy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116488090" />
-              <option name="times" value="150" />
+              <option name="last" value="1582120810000" />
+              <option name="times" value="152" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120020998" />
-              <option name="times" value="5187" />
+              <option name="last" value="1582120678783" />
+              <option name="times" value="5189" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582117533148" />
-              <option name="times" value="2440" />
+              <option name="last" value="1582120709032" />
+              <option name="times" value="2443" />
             </ActionSummary>
           </value>
         </entry>
@@ -957,16 +957,16 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119470228" />
-              <option name="times" value="165" />
+              <option name="last" value="1582120679657" />
+              <option name="times" value="166" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582117576677" />
-              <option name="times" value="774" />
+              <option name="last" value="1582120836000" />
+              <option name="times" value="776" />
             </ActionSummary>
           </value>
         </entry>
@@ -1333,16 +1333,16 @@
         <entry key="ParameterInfo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582041623408" />
-              <option name="times" value="160" />
+              <option name="last" value="1582120711300" />
+              <option name="times" value="163" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="PinToolwindowTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581944401240" />
-              <option name="times" value="11" />
+              <option name="last" value="1582120806049" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -2301,8 +2301,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582120042189" />
-              <option name="times" value="536" />
+              <option name="last" value="1582120681615" />
+              <option name="times" value="537" />
             </ActionSummary>
           </value>
         </entry>
