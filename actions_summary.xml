@@ -645,8 +645,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582117329739" />
-              <option name="times" value="1002" />
+              <option name="last" value="1582123885306" />
+              <option name="times" value="1003" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116345436" />
-              <option name="times" value="169" />
+              <option name="last" value="1582123884053" />
+              <option name="times" value="170" />
             </ActionSummary>
           </value>
         </entry>
@@ -2149,8 +2149,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582054916867" />
-              <option name="times" value="26" />
+              <option name="last" value="1582123888666" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
