@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="byPatient" type="JSON" />
       <mapping pattern="byCode" type="JSON" />
+      <mapping pattern="27351" type="JSON" />
       <mapping pattern="AMBIGUOUS" type="JSON" />
       <mapping pattern="NOTFOUND" type="JSON" />
       <mapping pattern="byOrderCode" type="JSON" />
