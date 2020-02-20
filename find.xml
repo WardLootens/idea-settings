@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.tag``</mask>
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
@@ -31,7 +32,7 @@
     <mask>pom.xml</mask>
     <mask>*.ts</mask>
     <mask>*,scss</mask>
-    <mask>*.scss</mask>
     <mask>*Test.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
