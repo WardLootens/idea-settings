@@ -117,8 +117,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275116357" />
-              <option name="times" value="588" />
+              <option name="last" value="1582275937102" />
+              <option name="times" value="590" />
             </ActionSummary>
           </value>
         </entry>
@@ -1013,8 +1013,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275798389" />
-              <option name="times" value="872" />
+              <option name="last" value="1582275922768" />
+              <option name="times" value="875" />
             </ActionSummary>
           </value>
         </entry>
@@ -1445,8 +1445,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275870260" />
-              <option name="times" value="2337" />
+              <option name="last" value="1582275978741" />
+              <option name="times" value="2341" />
             </ActionSummary>
           </value>
         </entry>
@@ -2309,8 +2309,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275832152" />
-              <option name="times" value="322" />
+              <option name="last" value="1582275978132" />
+              <option name="times" value="324" />
             </ActionSummary>
           </value>
         </entry>
@@ -2677,8 +2677,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275842716" />
-              <option name="times" value="2845" />
+              <option name="last" value="1582275944300" />
+              <option name="times" value="2846" />
             </ActionSummary>
           </value>
         </entry>
