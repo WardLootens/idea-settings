@@ -325,8 +325,8 @@
         <entry key="CompileDirty">
           <value>
             <ActionSummary>
-              <option name="last" value="1582535287571" />
-              <option name="times" value="199" />
+              <option name="last" value="1582535701435" />
+              <option name="times" value="202" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582532836133" />
-              <option name="times" value="1429" />
+              <option name="last" value="1582535435821" />
+              <option name="times" value="1430" />
             </ActionSummary>
           </value>
         </entry>
@@ -1509,8 +1509,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1582535284933" />
-              <option name="times" value="2672" />
+              <option name="last" value="1582535684515" />
+              <option name="times" value="2674" />
             </ActionSummary>
           </value>
         </entry>
@@ -1693,16 +1693,16 @@
         <entry key="ShowProjectStructureSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582530484706" />
-              <option name="times" value="7" />
+              <option name="last" value="1582535686820" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199814395" />
-              <option name="times" value="8" />
+              <option name="last" value="1582535640675" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -2413,8 +2413,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533631397" />
-              <option name="times" value="371" />
+              <option name="last" value="1582535685947" />
+              <option name="times" value="373" />
             </ActionSummary>
           </value>
         </entry>
@@ -2530,6 +2530,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582535698182" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582535694612" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.roots.ui.configuration.projectRoot.AddFacetOfTypeAction">
           <value>
             <ActionSummary>
@@ -2557,8 +2573,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582533042982" />
-              <option name="times" value="81" />
+              <option name="last" value="1582535642172" />
+              <option name="times" value="83" />
             </ActionSummary>
           </value>
         </entry>
