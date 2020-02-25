@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.tag``</mask>
+    <option name="FILE_MASK" value="*.html" />
     <mask>editor.jsp</mask>
     <mask>*.jsp, *.jspf, *.tag,*.js</mask>
     <mask>dbinit*.sql</mask>
@@ -35,5 +35,6 @@
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
