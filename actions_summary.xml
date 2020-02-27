@@ -117,16 +117,16 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582801144419" />
-              <option name="times" value="757" />
+              <option name="last" value="1582802623163" />
+              <option name="times" value="759" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="CallHierarchy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582791908164" />
-              <option name="times" value="187" />
+              <option name="last" value="1582802525486" />
+              <option name="times" value="188" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,16 +1125,16 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582796464128" />
-              <option name="times" value="276" />
+              <option name="last" value="1582802516556" />
+              <option name="times" value="277" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582801303972" />
-              <option name="times" value="1158" />
+              <option name="last" value="1582802612029" />
+              <option name="times" value="1159" />
             </ActionSummary>
           </value>
         </entry>
@@ -1629,8 +1629,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1582801832108" />
-              <option name="times" value="3645" />
+              <option name="last" value="1582803095563" />
+              <option name="times" value="3648" />
             </ActionSummary>
           </value>
         </entry>
@@ -1797,8 +1797,8 @@
         <entry key="ShelveChanges.UnshelveWithDialog">
           <value>
             <ActionSummary>
-              <option name="last" value="1582722070154" />
-              <option name="times" value="7" />
+              <option name="last" value="1582803107200" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -2373,8 +2373,8 @@
         <entry key="com.intellij.diff.merge.TextMergeViewer$MyThreesideViewer$MagicResolvedConflictsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582734272279" />
-              <option name="times" value="38" />
+              <option name="last" value="1582803117075" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -2613,8 +2613,8 @@
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582801828715" />
-              <option name="times" value="501" />
+              <option name="last" value="1582802515987" />
+              <option name="times" value="505" />
             </ActionSummary>
           </value>
         </entry>
@@ -2685,8 +2685,8 @@
         <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
           <value>
             <ActionSummary>
-              <option name="last" value="1581407214360" />
-              <option name="times" value="3" />
+              <option name="last" value="1582803123028" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -2725,8 +2725,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582797485907" />
-              <option name="times" value="905" />
+              <option name="last" value="1582803127685" />
+              <option name="times" value="909" />
             </ActionSummary>
           </value>
         </entry>
@@ -3029,8 +3029,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582801799308" />
-              <option name="times" value="4345" />
+              <option name="last" value="1582802519068" />
+              <option name="times" value="4347" />
             </ActionSummary>
           </value>
         </entry>
