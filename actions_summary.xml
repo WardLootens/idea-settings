@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582787692542" />
-              <option name="times" value="48" />
+              <option name="last" value="1582832700718" />
+              <option name="times" value="49" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="ChangesView.Revert">
           <value>
             <ActionSummary>
-              <option name="last" value="1582799303149" />
-              <option name="times" value="72" />
+              <option name="last" value="1582832694980" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="ChangesView.ShelveSilently">
           <value>
             <ActionSummary>
-              <option name="last" value="1582802137100" />
-              <option name="times" value="20" />
+              <option name="last" value="1582832649792" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -2173,8 +2173,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582820237984" />
-              <option name="times" value="61" />
+              <option name="last" value="1582832672696" />
+              <option name="times" value="63" />
             </ActionSummary>
           </value>
         </entry>
@@ -2773,8 +2773,8 @@
         <entry key="com.intellij.openapi.ui.DialogWrapper$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1582817932559" />
-              <option name="times" value="51" />
+              <option name="last" value="1582832674173" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
