@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582832700718" />
-              <option name="times" value="49" />
+              <option name="last" value="1582877326046" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582833048851" />
-              <option name="times" value="606" />
+              <option name="last" value="1582877205187" />
+              <option name="times" value="607" />
             </ActionSummary>
           </value>
         </entry>
@@ -343,6 +343,14 @@
             <ActionSummary>
               <option name="last" value="1582638959493" />
               <option name="times" value="209" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CompileProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582877523026" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +533,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582833014775" />
-              <option name="times" value="9539" />
+              <option name="last" value="1582877220852" />
+              <option name="times" value="9540" />
             </ActionSummary>
           </value>
         </entry>
@@ -1701,8 +1709,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1582834362147" />
-              <option name="times" value="332" />
+              <option name="last" value="1582877348716" />
+              <option name="times" value="334" />
             </ActionSummary>
           </value>
         </entry>
@@ -1821,8 +1829,8 @@
         <entry key="ShowLog">
           <value>
             <ActionSummary>
-              <option name="last" value="1582534648168" />
-              <option name="times" value="1" />
+              <option name="last" value="1582877375045" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -2813,8 +2821,8 @@
         <entry key="com.intellij.openapi.vcs.changes.actions.RollbackDialogAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582833055169" />
-              <option name="times" value="82" />
+              <option name="last" value="1582877322094" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -2829,8 +2837,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582816890846" />
-              <option name="times" value="138" />
+              <option name="last" value="1582877305487" />
+              <option name="times" value="139" />
             </ActionSummary>
           </value>
         </entry>
