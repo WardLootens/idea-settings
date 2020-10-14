@@ -1,34 +1,6 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="LINE_SPACING" value="1.0" />
-    <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-    <option name="PRESELECT_RENAME" value="false" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\btodo cyberlab-08978\b.*" />
-    <pattern pattern="\btodo wl\b.*" />
-    <pattern pattern="\btodo kn\b.*" />
-    <pattern pattern="\btodo cyberlab-09094\b.*" />
-    <filter name="CyberLab-09094">
-      <pattern index="5" />
-    </filter>
   </component>
 </application>
