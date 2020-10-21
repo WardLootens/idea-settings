@@ -236,7 +236,7 @@
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
+      <jdbc-url>jdbc:oracle:thin:@BE1-DEV-CYB-WEB:1512:CYBER12C</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="cyberlabv101WL@be1-dt-wl2" uuid="fa9c2e95-9333-41be-802f-6a24d2cb0c60">
       <driver-ref>oracle</driver-ref>
