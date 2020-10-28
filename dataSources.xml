@@ -220,35 +220,11 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="cyberlabv101WL" uuid="65fb166d-878e-462f-90b8-1dc20340c5a1">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="cyberlabv101ITWL" uuid="9de79bff-d566-4d11-9483-f00fcbe4a03d">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="cyberlabv101" uuid="0da12ea9-e39b-43a4-b6c6-ad96cbe12f17">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@BE1-DEV-CYB-WEB:1512:CYBER12C</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="cyberlabv101WL@be1-dt-wl2" uuid="fa9c2e95-9333-41be-802f-6a24d2cb0c60">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@be1-dt-wl2:1512:CYBER12C</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="cyberlabv101ITWL@be1-dt-wl2" uuid="9566c7aa-969f-444f-85b1-66053eee9f7a">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@be1-dt-wl2:1512:CYBER12C</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="cyberlabv913WL @ be1-dt-wl2" uuid="1c370a88-fa75-4e93-8519-6878fefaf8be">
       <driver-ref>oracle</driver-ref>
