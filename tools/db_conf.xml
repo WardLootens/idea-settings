@@ -1,43 +1,50 @@
 <toolSet name="db.conf">
-  <tool name="DB - 9.12" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="DB - 9.12" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
       <option name="PARAMETERS" value="db.conf.custom.912 db.conf" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
-  <tool name="DB - 9.12 WL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="DB - 9.12 WL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
       <option name="PARAMETERS" value="db.conf.custom.912WL db.conf" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
-  <tool name="DB - 10.0" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="DB - 10.0" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
       <option name="PARAMETERS" value="db.conf.custom.100 db.conf" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
-  <tool name="DB - 10.0 WL" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="DB - 10.0 WL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
       <option name="PARAMETERS" value="db.conf.custom.100WL db.conf" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
   <tool name="DB - 10.1 WL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
       <option name="PARAMETERS" value="db.conf.custom.101WL db.conf" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
   <tool name="DB - 10.1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\cyberlab\input\copy.bat" />
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
       <option name="PARAMETERS" value="db.conf.custom.101 db.conf" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
+    </exec>
+  </tool>
+  <tool name="DB - 10.1 ORA1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
+      <option name="PARAMETERS" value="db.conf.custom.be1-prf-cl-ora1 db.conf" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
