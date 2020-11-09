@@ -9,5 +9,6 @@
     <mask>*.java</mask>
     <mask>*.java,!*Dao.java</mask>
     <mask>*.sql</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
