@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
+      <mapping pattern="web.config" type="XML" />
     </extensionMap>
   </component>
 </application>
