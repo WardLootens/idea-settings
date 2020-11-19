@@ -256,5 +256,11 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-lt-wl:1512:CYBER12C</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="cyberlab_keycloak@be1-lt-wl" uuid="dedbc69f-51d4-45d3-a245-9ef592e4faad">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-lt-wl:1512:CYBER12C</jdbc-url>
+    </data-source>
   </component>
 </application>
