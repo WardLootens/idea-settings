@@ -1,6 +1,5 @@
 <application>
-  <component name="GetterTemplates">
-    <option name="defaultTempalteName" value="IntelliJ Default" />
+  <component name="GetterTemplates" defaultTemplateName="yegor256">
     <option name="templates">
       <list>
         <TemplateResource>
