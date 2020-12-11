@@ -12,5 +12,6 @@
     <mask>*fr*</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
