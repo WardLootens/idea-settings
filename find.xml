@@ -5,12 +5,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.java,!*Dao.java</mask>
-    <mask>*IT.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.jsp</mask>
     <mask>pom.xml</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
