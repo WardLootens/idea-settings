@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.xml</mask>
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
@@ -11,8 +11,8 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.jsp</mask>
-    <mask>pom.xml</mask>
     <mask>*IT.java</mask>
     <mask>*.scss</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
