@@ -268,5 +268,11 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-dt-wl2:1512:CYBER12C</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ap-perf-results" uuid="b01467c5-1166-46d7-b127-5a27f4a2228c">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:\\be1-prf-cl-web1\c$\cyberlab\cyberlab-ap-perf\db\results;AUTO_SERVER=TRUE</jdbc-url>
+    </data-source>
   </component>
 </application>
