@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="readonly" type="PLAIN_TEXT" />
       <mapping ext="office365" type="PLAIN_TEXT" />
       <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
       <mapping pattern="web.config" type="XML" />
