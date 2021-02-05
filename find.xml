@@ -1,12 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv102'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv102'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv102'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
@@ -15,9 +11,9 @@
     <mask>*IT.java</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
