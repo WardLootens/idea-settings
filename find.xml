@@ -17,10 +17,10 @@
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>inst*</mask>
     <mask>*.scss</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
