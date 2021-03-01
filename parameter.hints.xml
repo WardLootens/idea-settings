@@ -1,0 +1,16 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.patient(code,lastName,firstName,birthDate)" />
+        <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.order(placerCode,patient,sample)" />
+        <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.sample(code)" />
+        <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.pat(code,lastName,firstName,birthDate)" />
+        <added pattern="java.time.LocalDate.of(year,month,dayOfMonth)" />
+        <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute)" />
+        <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.ld(year,month,day)" />
+        <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.ldt(year,month,day,hour,minute)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
