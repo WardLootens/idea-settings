@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -25,5 +26,6 @@
     <mask>*.java</mask>
     <mask>*.reg</mask>
     <mask>*.xml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
