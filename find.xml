@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'cyberlabv101'" />
+    <option name="defaultScopeName" value="Project 'cyberlabv101'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'cyberlabv101'" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -20,7 +20,6 @@
     <mask>inst*</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
-    <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*IT.java</mask>
@@ -28,9 +27,10 @@
     <mask>*.http</mask>
     <mask>S*IT.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.reg</mask>
     <mask>*.xml</mask>
     <mask>*.txt</mask>
+    <mask>*.java</mask>
+    <mask>*.java,*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
