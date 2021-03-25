@@ -11,6 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -25,12 +26,12 @@
     <mask>*.bat</mask>
     <mask>*.http</mask>
     <mask>S*IT.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.reg</mask>
     <mask>*.xml</mask>
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.js</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
