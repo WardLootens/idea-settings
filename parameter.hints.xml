@@ -11,6 +11,7 @@
         <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.ld(year,month,day)" />
         <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.ldt(year,month,day,hour,minute)" />
         <added pattern="be.mips.util.log.Logger.logRoutine(descriptionFormat,arguments)" />
+        <added pattern="be.mips.cyberlab.business.PatientPortalContactSettingsRequiredContactInfoTest.patient(email,mobile)" />
       </blacklist>
     </blacklists>
   </component>
