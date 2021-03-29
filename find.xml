@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -17,7 +18,6 @@
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*IT.java</mask>
     <mask>*.bat</mask>
     <mask>*.http</mask>
     <mask>S*IT.java</mask>
@@ -28,5 +28,6 @@
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.js</mask>
     <mask>pom.xml</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
