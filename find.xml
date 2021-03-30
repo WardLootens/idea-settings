@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -25,8 +26,8 @@
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
-    <mask>*.js</mask>
     <mask>pom.xml</mask>
     <mask>*IT.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
