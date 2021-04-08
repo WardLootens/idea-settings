@@ -26,5 +26,6 @@
     <mask>*IT.java</mask>
     <mask>*.js</mask>
     <mask>pom.xml</mask>
+    <mask>*.tag</mask>
   </component>
 </application>
