@@ -21,9 +21,9 @@
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
-    <mask>*IT.java</mask>
     <mask>*.js</mask>
-    <mask>pom.xml</mask>
     <mask>*.tag</mask>
+    <mask>*IT.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
