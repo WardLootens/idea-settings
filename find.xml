@@ -1,13 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.jsp,*.tag,*.jspf" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
-    <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>inst*</mask>
@@ -28,5 +31,6 @@
     <mask>*.scss</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
