@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -23,7 +24,6 @@
     <mask>*puml</mask>
     <mask>``</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.sql</mask>
     <mask>*.jsp</mask>
@@ -31,5 +31,6 @@
     <mask>*fr.properties</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf,*.scss,*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
