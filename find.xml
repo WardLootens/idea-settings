@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -27,9 +28,9 @@
     <mask>*.jsp</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*fr.properties</mask>
-    <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf,*.scss,*.js</mask>
     <mask>*.scss</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
