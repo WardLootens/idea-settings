@@ -110,6 +110,7 @@
       <jdbc-url>jdbc:oracle:thin:@be1-dev-linux01:1521:CYBER12C</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="MIA" uuid="aef81dad-c7f0-4f20-b224-c6ea51cc7d66">
+      <driver-ref>openedge</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
       <jdbc-driver>com.ddtek.jdbc.openedge.OpenEdgeDriver</jdbc-driver>
@@ -279,6 +280,12 @@
       <synchronize>true</synchronize>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@be1-lt-wl:1512:CYBER12C</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyberlabv101@be1-dev-cyb-web" uuid="b62b258c-0734-4bbf-9fd6-6228c36d5fef">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-dev-cyb-web:1512:CYBER12C</jdbc-url>
     </data-source>
   </component>
 </application>
