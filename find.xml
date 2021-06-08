@@ -23,7 +23,6 @@
     <mask>pom.xml</mask>
     <mask>*puml</mask>
     <mask>``</mask>
-    <mask>*.js</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.sql</mask>
     <mask>*.jsp</mask>
@@ -34,5 +33,6 @@
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.puml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
