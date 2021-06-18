@@ -30,9 +30,9 @@
     <mask>*.scss</mask>
     <mask>*.properties</mask>
     <mask>*.puml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*IT.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
