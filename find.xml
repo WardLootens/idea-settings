@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*.java,!*Dao.java</mask>
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
@@ -31,7 +31,6 @@
     <mask>*.properties</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.scss</mask>
-    <mask>*IT.java</mask>
     <mask>*.jspf</mask>
     <mask>*.xml</mask>
     <mask>!*.css</mask>
@@ -40,5 +39,6 @@
     <mask>*.java</mask>
     <mask>nl2br</mask>
     <mask>pom.xml</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
