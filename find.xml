@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.java,!*Dao.java</mask>
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*_en.properties</mask>
     <mask>*fr*</mask>
     <mask>inst*</mask>
@@ -33,7 +33,8 @@
     <mask>*.puml</mask>
     <mask>*.java</mask>
     <mask>nl2br</mask>
-    <mask>pom.xml</mask>
     <mask>*IT.java</mask>
+    <mask>!*Dao.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
