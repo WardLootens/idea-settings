@@ -48,4 +48,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
     </exec>
   </tool>
+  <tool name="DB - 10.2 WL" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="c:\workspace\copy.bat" />
+      <option name="PARAMETERS" value="db.conf.custom.102WL db.conf" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/conf" />
+    </exec>
+  </tool>
 </toolSet>
