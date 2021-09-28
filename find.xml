@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*fr*</mask>
     <mask>inst*</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
@@ -31,7 +32,7 @@
     <mask>nl2br</mask>
     <mask>*IT.java</mask>
     <mask>!*Dao.java</mask>
-    <mask>pom.xml</mask>
     <mask>*Arguments.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
