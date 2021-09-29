@@ -13,6 +13,7 @@
         <added pattern="be.mips.util.log.Logger.logRoutine(descriptionFormat,arguments)" />
         <added pattern="be.mips.cyberlab.business.PatientPortalContactSettingsRequiredContactInfoTest.patient(email,mobile)" />
         <added pattern="be.mips.cyberlab.database.purge.SetEmptyLogoutTimesToZeroArgumentsTest.createArgumentsAndCheckIllegalArgument(minimumAge,maximumAge,batchSize,maxTotalRows,queryTimeout,expectedMessage)" />
+        <added pattern="be.mips.cyberlab.database.purge.SetEmptyLogoutTimesToZeroArgumentsTest.assertValidationMessages(minimumAge,maximumAge,batchSize,maxTotalRows,queryTimeout,expectedMessage)" />
       </blacklist>
     </blacklists>
   </component>
