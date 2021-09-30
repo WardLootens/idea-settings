@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*fr*</mask>
     <mask>inst*</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
@@ -26,7 +26,6 @@
     <mask>*.jsp,*.tag,*.jspf,*.scss,*.js</mask>
     <mask>*.properties</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>*.scss</mask>
     <mask>*.jspf</mask>
     <mask>*.xml</mask>
     <mask>!*.css</mask>
@@ -38,5 +37,6 @@
     <mask>pom.xml</mask>
     <mask>*Arguments.java</mask>
     <mask>*.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
