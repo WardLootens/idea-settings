@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*fr*</mask>
     <mask>inst*</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
@@ -21,7 +20,6 @@
     <mask>*fr.properties</mask>
     <mask>*.jsp,*.tag,*.jspf,*.scss,*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.jspf</mask>
     <mask>*.xml</mask>
     <mask>!*.css</mask>
@@ -34,5 +32,6 @@
     <mask>*.scss</mask>
     <mask>*IT.java</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
