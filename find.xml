@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*fr*</mask>
     <mask>inst*</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
@@ -39,7 +40,7 @@
     <mask>pom.xml</mask>
     <mask>*Arguments.java</mask>
     <mask>*.scss</mask>
-    <mask>*.java</mask>
     <mask>*IT.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
