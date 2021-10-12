@@ -11,6 +11,7 @@
       <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="url" type="PLAIN_TEXT" />
+      <mapping pattern="db.conf*" type="Properties" />
       <mapping pattern="web.config" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
