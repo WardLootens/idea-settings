@@ -7,6 +7,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="tns" type="PLAIN_TEXT" />
       <mapping ext="readonly" type="PLAIN_TEXT" />
+      <mapping ext="ora" type="PLAIN_TEXT" />
       <mapping ext="office365" type="PLAIN_TEXT" />
       <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
