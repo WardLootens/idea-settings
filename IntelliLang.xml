@@ -3,7 +3,7 @@
     <injection language="H2" injector-id="java">
       <display-name>Connection (java.sql)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
       <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
