@@ -1,13 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
     <mask>*fr*</mask>
     <mask>inst*</mask>
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
@@ -29,14 +24,14 @@
     <mask>*.xml</mask>
     <mask>!*.css</mask>
     <mask>*.js</mask>
-    <mask>*.puml</mask>
     <mask>nl2br</mask>
     <mask>!*Dao.java</mask>
     <mask>*Arguments.java</mask>
     <mask>*.scss</mask>
     <mask>*IT.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.puml</mask>
   </component>
 </application>
