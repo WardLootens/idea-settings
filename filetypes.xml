@@ -12,6 +12,7 @@
       <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="url" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="db.conf*" type="Properties" />
       <mapping pattern="web.config" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
