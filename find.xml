@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tag" />
     <mask>!*.html,!*.java,!*.js,!*.sql,!*.ts</mask>
     <mask>*.http</mask>
     <mask>S*IT.java</mask>
@@ -27,12 +26,12 @@
     <mask>pom.xml</mask>
     <mask>*.puml</mask>
     <mask>*.bat</mask>
+    <mask>*.tag</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.tag</mask>
   </component>
 </application>
