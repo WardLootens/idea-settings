@@ -23,7 +23,6 @@
     <mask>*.scss</mask>
     <mask>*IT.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>pom.xml</mask>
     <mask>*.puml</mask>
     <mask>*.tag</mask>
     <mask>*.bat</mask>
@@ -33,5 +32,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
