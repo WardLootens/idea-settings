@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.http</mask>
+    <option name="FILE_MASK" value="*Drl*" />
     <mask>S*IT.java</mask>
     <mask>*.reg</mask>
     <mask>*.txt</mask>
@@ -39,5 +39,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*Drl*</mask>
   </component>
 </application>
