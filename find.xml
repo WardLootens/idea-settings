@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Drl*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>S*IT.java</mask>
     <mask>*.reg</mask>
     <mask>*.txt</mask>
@@ -33,12 +33,12 @@
     <mask>pom.xml</mask>
     <mask>*.scss</mask>
     <mask>*.bat.template</mask>
+    <mask>*Drl*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*Drl*</mask>
   </component>
 </application>
