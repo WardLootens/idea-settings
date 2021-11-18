@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'cyberlabv101'" />
+    <option name="defaultScopeName" value="Project 'cyberlabv101'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'cyberlabv101'" />
     <mask>*.txt</mask>
     <mask>*puml</mask>
     <mask>``</mask>
@@ -28,12 +28,12 @@
     <mask>*Drl*</mask>
     <mask>*.md</mask>
     <mask>*IT.java</mask>
+    <mask>Manager.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>Manager.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
