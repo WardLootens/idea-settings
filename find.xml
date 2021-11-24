@@ -23,7 +23,6 @@
     <mask>*.tag</mask>
     <mask>*.bat</mask>
     <mask>pom.xml</mask>
-    <mask>*.scss</mask>
     <mask>*.bat.template</mask>
     <mask>*Drl*</mask>
     <mask>*.md</mask>
@@ -35,5 +34,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
