@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Properties.java" />
     <mask>``</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.sql</mask>
