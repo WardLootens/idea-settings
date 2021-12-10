@@ -15,6 +15,7 @@
       <mapping ext="url" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="db.conf*" type="Properties" />
+      <mapping pattern="*.xml.template" type="XML" />
       <mapping pattern="web.config" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
