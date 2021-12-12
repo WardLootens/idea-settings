@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>``</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.sql</mask>
@@ -21,7 +22,6 @@
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.tag</mask>
     <mask>*.bat</mask>
-    <mask>pom.xml</mask>
     <mask>*.bat.template</mask>
     <mask>*Drl*</mask>
     <mask>*.md</mask>
@@ -37,5 +37,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*Properties.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
