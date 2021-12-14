@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\products\cyberlab\test\be\mips\cyberlab\database\exp\SORMASExportIT.java [cyberlab]'" />
+    <option name="defaultScopeName" value="File '…\products\cyberlab\test\be\mips\cyberlab\database\exp\SORMASExportIT.java [cyberlab]'" />
+    <option name="SEARCH_SCOPE" value="File '…\products\cyberlab\test\be\mips\cyberlab\database\exp\SORMASExportIT.java [cyberlab]'" />
     <mask>``</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.sql</mask>
