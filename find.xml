@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.bat" />
     <mask>*.sql</mask>
     <mask>*fr.properties</mask>
     <mask>*.jsp,*.tag,*.jspf,*.scss,*.js</mask>
@@ -14,7 +15,6 @@
     <mask>*Arguments.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.tag</mask>
-    <mask>*.bat</mask>
     <mask>*.bat.template</mask>
     <mask>*Drl*</mask>
     <mask>*.md</mask>
@@ -33,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
+    <mask>*.bat</mask>
   </component>
 </application>
