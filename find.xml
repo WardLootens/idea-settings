@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp,*.tag,*.jspf,*.scss,*.js</mask>
     <mask>*.jspf</mask>
     <mask>!*.css</mask>
@@ -32,12 +33,12 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*Properties.java</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
     <mask>*.bat</mask>
     <mask>*.jsp,*.tag,*.jspf,*.java</mask>
     <mask>*.template</mask>
+    <mask>*.java</mask>
   </component>
 </application>
