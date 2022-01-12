@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Daemon*Properties*.java" />
     <mask>*.jspf</mask>
     <mask>!*.css</mask>
     <mask>*.js</mask>
@@ -31,7 +32,7 @@
     <mask>*.template</mask>
     <mask>*.puml</mask>
     <mask>*.java</mask>
-    <mask>*Daemon*Properties*.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>*Daemon*Properties*.java</mask>
   </component>
 </application>
