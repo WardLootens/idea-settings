@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'cyberlab'" />
+    <option name="defaultScopeName" value="Module 'cyberlab'" />
+    <option name="SEARCH_SCOPE" value="Module 'cyberlab'" />
     <mask>!*.css</mask>
     <mask>*.js</mask>
     <mask>nl2br</mask>
