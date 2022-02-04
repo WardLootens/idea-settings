@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*IT.java" />
     <mask>*.js</mask>
     <mask>nl2br</mask>
     <mask>!*Dao.java</mask>
@@ -14,7 +15,6 @@
     <mask>*Drl*</mask>
     <mask>*.md</mask>
     <mask>Manager.java</mask>
-    <mask>*IT.java</mask>
     <mask>*spec.ts</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
@@ -35,5 +35,6 @@
     <mask>*.puml</mask>
     <mask>*.java</mask>
     <mask>*ins*.md</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
