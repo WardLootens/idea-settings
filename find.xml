@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*Dao.java</mask>
     <mask>*Arguments.java</mask>
     <mask>*.tag</mask>
     <mask>*.bat.template</mask>
@@ -35,5 +32,6 @@
     <mask>*md</mask>
     <mask>*.sql</mask>
     <mask>*IT.java</mask>
+    <mask>*.java,*.js</mask>
   </component>
 </application>
