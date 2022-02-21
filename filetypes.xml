@@ -19,6 +19,8 @@
       <mapping pattern="*.xml.template" type="XML" />
       <mapping pattern="web.config" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="diff" approved="true" type="PATCH" />
+      <removed_mapping ext="patch" approved="true" type="PATCH" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
