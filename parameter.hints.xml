@@ -17,6 +17,10 @@
         <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute,second)" />
         <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond)" />
       </blacklist>
+      <blacklist language="TypeScript">
+        <added pattern="order(placer,filler,label)" />
+        <added pattern="order(placerCode,fillerCode,codingSystem)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
