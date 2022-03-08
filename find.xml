@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.bat.template</mask>
+    <option name="FILE_MASK" value="!*Dao.java,*.java" />
     <mask>*Drl*</mask>
     <mask>*.md</mask>
     <mask>Manager.java</mask>
@@ -35,5 +35,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*spec.ts</mask>
+    <mask>!*Dao.java,*.java</mask>
   </component>
 </application>
