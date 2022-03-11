@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Drl*</mask>
     <mask>*.md</mask>
     <mask>Manager.java</mask>
     <mask>*.css</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*spec.ts</mask>
     <mask>!*Dao.java,*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
