@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="V10_1_10_6_2__Migrate_USR_OTPMETHOD" type="AUTO_DETECTED" />
+      <mapping pattern="samplingLocations" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
