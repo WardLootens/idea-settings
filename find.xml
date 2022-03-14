@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.md</mask>
     <mask>Manager.java</mask>
     <mask>*.css</mask>
@@ -29,11 +30,11 @@
     <mask>2201-0438.*</mask>
     <mask>2201-0438*</mask>
     <mask>*.puml</mask>
-    <mask>*.scss</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*spec.ts</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
