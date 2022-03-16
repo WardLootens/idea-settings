@@ -2,12 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.md</mask>
     <mask>Manager.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -37,5 +32,6 @@
     <mask>*.scss</mask>
     <mask>*spec.ts</mask>
     <mask>*IT.java</mask>
+    <mask>*.md</mask>
   </component>
 </application>
