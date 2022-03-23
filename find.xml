@@ -25,7 +25,6 @@
     <mask>2201-0438*</mask>
     <mask>*.java</mask>
     <mask>!*Dao.java,*.java</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*spec.ts</mask>
     <mask>*IT.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.puml</mask>
     <mask>pom.xml</mask>
     <mask>*Arguments.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
