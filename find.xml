@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'cyberlabv101'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv101'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv101'" />
-    <mask>*.css</mask>
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*puml" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -39,5 +39,6 @@
     <mask>*Arguments.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>*puml</mask>
   </component>
 </application>
