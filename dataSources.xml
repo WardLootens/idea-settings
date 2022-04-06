@@ -317,5 +317,12 @@
       <jdbc-driver>org.h2.Driver</jdbc-driver>
       <jdbc-url>jdbc:h2:c:\workspace\cyberlab-ap-perf\db\results;AUTO_SERVER=TRUE</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="MIA [RW]" uuid="6b72e8d9-3825-4b96-9fa8-69f2b68d2630">
+      <driver-ref>openedge</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.ddtek.jdbc.openedge.OpenEdgeDriver</jdbc-driver>
+      <jdbc-url>jdbc:datadirect:openedge://mia-server:2525;databaseName=mia;user=SYSPROGRESS;</jdbc-url>
+    </data-source>
   </component>
 </application>
