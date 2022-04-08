@@ -2,6 +2,7 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="H2" injector-id="java">
       <display-name>Connection (java.sql)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
       <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
@@ -13,52 +14,69 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Connection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Connection"))]]></place>
     </injection>
+    <injection language="Oracle" injector-id="java">
+      <display-name>Connection.prepareStatement (java.sql)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>CountQuery.CountQuery (be.mips.cyberlab.db.query)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("CountQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.CountQuery"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>ExistsQuery.ExistsQuery (be.mips.cyberlab.db.query)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("ExistsQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.ExistsQuery"))]]></place>
     </injection>
     <injection language="H2" injector-id="java">
       <display-name>FetchListQuery.FetchListQuery (be.mips.cyberlab.apperf.db)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchListQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.apperf.db.FetchListQuery"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>FetchListQuery.FetchListQuery (be.mips.cyberlab.db.query)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchListQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchListQuery"))]]></place>
     </injection>
     <injection language="H2" injector-id="java">
       <display-name>FetchMapQuery.FetchMapQuery (be.mips.cyberlab.apperf.db)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchMapQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.apperf.db.FetchMapQuery"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>FetchScalarQuery.FetchScalarQuery (be.mips.cyberlab.db.query)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("FetchScalarQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.db.query.FetchScalarQuery"))]]></place>
     </injection>
     <injection language="H2" injector-id="java">
       <display-name>InsertQuery.InsertQuery (be.mips.cyberlab.apperf.db)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("InsertQuery").withParameters("java.lang.String", "be.mips.cyberlab.util.functions.ThrowingFunction").definedInClass("be.mips.cyberlab.apperf.db.InsertQuery"))]]></place>
     </injection>
     <injection language="JSON" injector-id="java">
       <display-name>JSONAssert.assertJsonEquals (net.sf.json.test)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertJsonEquals").withParameters("java.lang.String", "java.lang.String").definedInClass("net.sf.json.test.JSONAssert"))]]></place>
     </injection>
     <injection language="XML" injector-id="java">
       <display-name>Matchers.isSameXml (be.mips.cyberlab.util)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isSameXml").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.util.Matchers"))]]></place>
     </injection>
     <injection language="Oracle" injector-id="java">
       <display-name>UpdateQueries.UpdateQueries (be.mips.cyberlab.db.query)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("UpdateQueries").withParameters("java.lang.String...").definedInClass("be.mips.cyberlab.db.query.UpdateQueries"))]]></place>
     </injection>
     <injection language="H2" injector-id="java">
       <display-name>UpdateQuery.UpdateQuery (be.mips.cyberlab.apperf.db)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("UpdateQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.apperf.db.UpdateQuery"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>UpdateQuery.UpdateQuery (be.mips.cyberlab.db.query)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("UpdateQuery").withParameters("java.lang.String").definedInClass("be.mips.cyberlab.db.query.UpdateQuery"))]]></place>
     </injection>
   </component>
