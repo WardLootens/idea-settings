@@ -1,28 +1,29 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="version" type="AUTO_DETECTED" />
-      <mapping pattern="V10_1_10_6_2__Migrate_USR_OTPMETHOD" type="AUTO_DETECTED" />
-      <mapping pattern="samplingLocations" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="tns" type="PLAIN_TEXT" />
-      <mapping ext="readonly" type="PLAIN_TEXT" />
-      <mapping ext="ora" type="PLAIN_TEXT" />
-      <mapping ext="office365" type="PLAIN_TEXT" />
-      <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="url" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern="db.conf*" type="Properties" />
-      <mapping pattern="*.xml.template" type="XML" />
-      <mapping pattern="web.config" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="diff" approved="true" type="PATCH" />
       <removed_mapping ext="patch" approved="true" type="PATCH" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="be1-prf-cl-ora1" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="office365" type="PLAIN_TEXT" />
+      <mapping ext="ora" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="readonly" type="PLAIN_TEXT" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="tns" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
+      <mapping pattern="*.xml.template" type="XML" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="V10_1_10_6_2__Migrate_USR_OTPMETHOD" type="AUTO_DETECTED" />
+      <mapping pattern="db.conf*" type="Properties" />
+      <mapping pattern="samplingLocations" type="JSON" />
+      <mapping pattern="version" type="AUTO_DETECTED" />
+      <mapping pattern="web.config" type="XML" />
     </extensionMap>
   </component>
 </application>
