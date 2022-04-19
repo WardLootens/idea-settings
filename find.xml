@@ -3,11 +3,13 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
+    <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -37,5 +39,6 @@
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*puml</mask>
     <mask>pom.xml</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
