@@ -18,9 +18,7 @@
         </entry>
         <entry key="Docker">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="GlassFish">
@@ -57,7 +55,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -135,9 +132,7 @@
         </entry>
         <entry key="com.intellij.drools">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.gradle">
@@ -170,9 +165,7 @@
         </entry>
         <entry key="com.intellij.plugins.watcher">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.quarkus">
