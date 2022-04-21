@@ -9,7 +9,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*Properties.java</mask>
     <mask>*xml</mask>
@@ -39,5 +38,6 @@
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.ts</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>
