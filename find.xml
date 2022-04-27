@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="Current File" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.xml" />
     <mask>*Properties.java</mask>
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
