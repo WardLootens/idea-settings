@@ -1,5 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://C:/workspace/cyberlabv101/bin/runTask.bat" value="Bat" />
     <file url="file://C:/workspace/cyberlabv101/conf/covid19Mutations.properties.template" value="Properties" />
+    <file url="file://C:/workspace/cyberlabv101/tools/sidep/export-results-for-ins/src/main/bin/export.bat" value="Bat" />
   </component>
 </application>
