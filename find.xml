@@ -3,6 +3,7 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*puml" />
     <mask>*Properties.java</mask>
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
@@ -25,7 +26,6 @@
     <mask>*Arguments.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>*puml</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.ts</mask>
@@ -33,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*IT.java</mask>
+    <mask>*puml</mask>
   </component>
 </application>
