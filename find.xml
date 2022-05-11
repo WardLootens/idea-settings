@@ -1,12 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*Properties.java</mask>
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
@@ -21,7 +18,6 @@
     <mask>*.java,*.js</mask>
     <mask>2201-0438.*</mask>
     <mask>2201-0438*</mask>
-    <mask>*.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*spec.ts</mask>
     <mask>*.md</mask>
@@ -37,5 +33,6 @@
     <mask>*.scss</mask>
     <mask>*IT.java</mask>
     <mask>*puml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
