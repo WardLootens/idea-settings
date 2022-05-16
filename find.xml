@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cyberlabv102'" />
-    <option name="defaultScopeName" value="Project 'cyberlabv102'" />
-    <option name="SEARCH_SCOPE" value="Project 'cyberlabv102'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*Properties.java</mask>
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
@@ -24,7 +25,6 @@
     <mask>*Arguments.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.ts</mask>
     <mask>*Controller.java</mask>
@@ -33,5 +33,6 @@
     <mask>*puml</mask>
     <mask>*.java</mask>
     <mask>*IT.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
