@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp,*.tag,*.jspf" />
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
     <mask>*.bat</mask>
@@ -26,7 +27,6 @@
     <mask>*.puml</mask>
     <mask>*Arguments.java</mask>
     <mask>*.js</mask>
-    <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*Test.java</mask>
     <mask>*.ts</mask>
     <mask>*Controller.java</mask>
@@ -37,5 +37,6 @@
     <mask>*IT.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
