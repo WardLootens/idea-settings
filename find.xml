@@ -35,7 +35,7 @@
     <mask>*IT.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
