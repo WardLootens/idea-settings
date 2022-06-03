@@ -3,10 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
     <mask>*.bat</mask>
@@ -33,9 +32,9 @@
     <mask>*.scss</mask>
     <mask>*puml</mask>
     <mask>*IT.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
