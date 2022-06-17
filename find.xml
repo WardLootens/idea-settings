@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp,*.tag,*.jspf" />
     <mask>*xml</mask>
     <mask>OrderEntry.js</mask>
     <mask>*.bat</mask>
@@ -29,11 +30,11 @@
     <mask>*.xml</mask>
     <mask>*puml</mask>
     <mask>*IT.java</mask>
-    <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.scss</mask>
+    <mask>*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
