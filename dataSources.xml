@@ -324,5 +324,11 @@
       <jdbc-driver>com.ddtek.jdbc.openedge.OpenEdgeDriver</jdbc-driver>
       <jdbc-url>jdbc:datadirect:openedge://mia-server:2525;databaseName=mia;user=SYSPROGRESS;</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="cyberlabv20221WL@be1-lt-wl" uuid="c177c0c7-ec41-440f-a4ab-842b95f5ece3">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@be1-lt-wl:1512:CYBER12C</jdbc-url>
+    </data-source>
   </component>
 </application>
