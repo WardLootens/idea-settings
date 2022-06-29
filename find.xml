@@ -26,7 +26,6 @@
     <mask>*.ts</mask>
     <mask>*Controller.java</mask>
     <mask>*.xml</mask>
-    <mask>*puml</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
     <mask>*.scss</mask>
@@ -37,5 +36,6 @@
     <mask>pom.xml</mask>
     <mask>*IT.java</mask>
     <mask>*_en.properties</mask>
+    <mask>*puml</mask>
   </component>
 </application>
