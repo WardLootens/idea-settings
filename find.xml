@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_en.properties" />
     <mask>*.jsp,*.tag,*.jspf,*.java</mask>
     <mask>*.template</mask>
     <mask>*Daemon*Properties*.java</mask>
@@ -31,7 +32,7 @@
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*IT.java</mask>
-    <mask>*_en.properties</mask>
     <mask>*puml</mask>
+    <mask>*_en.properties</mask>
   </component>
 </application>
