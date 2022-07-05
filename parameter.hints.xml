@@ -1,6 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="order(placer,filler,label)" />
+        <added pattern="order(placerCode,fillerCode,codingSystem)" />
+        <added pattern="DaemonOverviewComponent.fields(names)" />
+      </blacklist>
       <blacklist language="Java">
         <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.patient(code,lastName,firstName,birthDate)" />
         <added pattern="be.mips.cyberlab.business.SampleBrwFindByQuerySortingIT.order(placerCode,patient,sample)" />
@@ -16,10 +21,6 @@
         <added pattern="be.mips.cyberlab.database.purge.SetEmptyLogoutTimesToZeroArgumentsTest.assertValidationMessages(minimumAge,maximumAge,batchSize,maxTotalRows,queryTimeout,expectedMessage)" />
         <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute,second)" />
         <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond)" />
-      </blacklist>
-      <blacklist language="TypeScript">
-        <added pattern="order(placer,filler,label)" />
-        <added pattern="order(placerCode,fillerCode,codingSystem)" />
       </blacklist>
     </blacklists>
   </component>
