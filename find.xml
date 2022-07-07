@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.puml" />
     <mask>*Daemon*Properties*.java</mask>
     <mask>*Arguments*.java</mask>
     <mask>*ins*.md</mask>
@@ -15,7 +14,6 @@
     <mask>2201-0438*</mask>
     <mask>*spec.ts</mask>
     <mask>*.md</mask>
-    <mask>*.puml</mask>
     <mask>*Arguments.java</mask>
     <mask>*.js</mask>
     <mask>*Test.java</mask>
@@ -35,5 +33,6 @@
     <mask>*.jsp</mask>
     <mask>*.jsp,*.tag,*.jspf,*.js,*.scss</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>*.puml</mask>
   </component>
 </application>
