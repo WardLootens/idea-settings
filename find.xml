@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Arguments*.java</mask>
+    <option name="FILE_MASK" value="!*.properties" />
     <mask>*ins*.md</mask>
     <mask>*md</mask>
     <mask>*.sql</mask>
@@ -39,5 +39,6 @@
     <mask>*IT.java</mask>
     <mask>*_en.properties</mask>
     <mask>*.bat</mask>
+    <mask>!*.properties</mask>
   </component>
 </application>
