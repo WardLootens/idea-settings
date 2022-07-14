@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*ins*.md</mask>
     <mask>*md</mask>
     <mask>*.sql</mask>
@@ -29,7 +30,6 @@
     <mask>Context*</mask>
     <mask>Browser*.java</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*puml</mask>
     <mask>*.jsp</mask>
     <mask>*.jsp,*.tag,*.jspf,*.js,*.scss</mask>
@@ -39,5 +39,6 @@
     <mask>*.bat</mask>
     <mask>!*.properties</mask>
     <mask>*_en.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
