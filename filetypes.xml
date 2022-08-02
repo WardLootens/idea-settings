@@ -9,6 +9,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tns" type="PLAIN_TEXT" />
+      <mapping ext="hpr" type="PLAIN_TEXT" />
       <mapping ext="readonly" type="PLAIN_TEXT" />
       <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
