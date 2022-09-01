@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*ins*.md</mask>
     <mask>*md</mask>
     <mask>*.sql</mask>
@@ -14,11 +15,9 @@
     <mask>2201-0438.*</mask>
     <mask>2201-0438*</mask>
     <mask>*spec.ts</mask>
-    <mask>*.md</mask>
     <mask>*Arguments.java</mask>
     <mask>*.js</mask>
     <mask>*Test.java</mask>
-    <mask>*.ts</mask>
     <mask>*Controller.java</mask>
     <mask>*.xml</mask>
     <mask>!*Dao.java,*.java</mask>
@@ -37,5 +36,7 @@
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>pom.xml</mask>
     <mask>*_en.properties</mask>
+    <mask>*.ts</mask>
+    <mask>*.md</mask>
   </component>
 </application>
