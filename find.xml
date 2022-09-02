@@ -27,11 +27,11 @@
     <mask>*IT.java</mask>
     <mask>*.bat</mask>
     <mask>!*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>pom.xml</mask>
     <mask>*_en.properties</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
+    <mask>*.java</mask>
   </component>
 </application>
