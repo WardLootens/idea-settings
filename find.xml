@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*ins*.md</mask>
+    <option name="FILE_MASK" value="*.html" />
     <mask>*md</mask>
     <mask>*.sql</mask>
     <mask>*.java,*.js</mask>
@@ -35,5 +35,6 @@
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
