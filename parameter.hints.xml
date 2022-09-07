@@ -21,6 +21,7 @@
         <added pattern="be.mips.cyberlab.database.purge.SetEmptyLogoutTimesToZeroArgumentsTest.assertValidationMessages(minimumAge,maximumAge,batchSize,maxTotalRows,queryTimeout,expectedMessage)" />
         <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute,second)" />
         <added pattern="java.time.LocalDateTime.of(year,month,dayOfMonth,hour,minute,second,nanoOfSecond)" />
+        <added pattern="be.mips.cyberlab.web.patientviewer.sso.SSOPatientViewerRequestIT.claim(lastName,firstNames,sex,birthDate)" />
       </blacklist>
     </blacklists>
   </component>
