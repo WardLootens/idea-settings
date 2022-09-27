@@ -12,7 +12,6 @@
     <mask>2201-0438*</mask>
     <mask>*spec.ts</mask>
     <mask>*Arguments.java</mask>
-    <mask>*.js</mask>
     <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
     <mask>*.xml</mask>
@@ -37,5 +36,6 @@
     <mask>pom.xml</mask>
     <mask>*.puml</mask>
     <mask>*DTO.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
