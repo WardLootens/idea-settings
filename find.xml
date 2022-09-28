@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>2201-0438.*</mask>
     <mask>2201-0438*</mask>
     <mask>*spec.ts</mask>
@@ -36,10 +37,10 @@
     <mask>*.java</mask>
     <mask>Manager.java</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>pom.xml</mask>
     <mask>*.puml</mask>
     <mask>*DTO.java</mask>
     <mask>*.js</mask>
     <mask>*response*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
