@@ -5,13 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>2201-0438.*</mask>
+    <option name="FILE_MASK" value="*.java,*.jsp,*.tag,*.jspf" />
     <mask>2201-0438*</mask>
     <mask>*spec.ts</mask>
     <mask>*Arguments.java</mask>
@@ -41,5 +41,6 @@
     <mask>*response*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>*.java,*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
