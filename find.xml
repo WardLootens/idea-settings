@@ -11,7 +11,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.jsp,*.tag,*.jspf" />
     <mask>2201-0438*</mask>
     <mask>*spec.ts</mask>
     <mask>*Arguments.java</mask>
@@ -33,14 +32,14 @@
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>Manager.java</mask>
     <mask>*.puml</mask>
     <mask>*DTO.java</mask>
     <mask>*.js</mask>
     <mask>*response*.xml</mask>
     <mask>pom.xml</mask>
-    <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
+    <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>*.java</mask>
   </component>
 </application>
