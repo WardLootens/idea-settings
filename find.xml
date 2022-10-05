@@ -1,13 +1,17 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>2201-0438*</mask>
+    <option name="FILE_MASK" value="*.jsp,*.tag,*.jspf,*.js" />
     <mask>*spec.ts</mask>
     <mask>*Arguments.java</mask>
     <mask>*Test.java</mask>
@@ -37,5 +41,6 @@
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag,*.jspf,*.js</mask>
   </component>
 </application>
