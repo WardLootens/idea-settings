@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'cyberlabv20221'" />
+    <option name="defaultScopeName" value="Project 'cyberlabv20221'" />
+    <option name="SEARCH_SCOPE" value="Project 'cyberlabv20221'" />
     <mask>*spec.ts</mask>
     <mask>*Arguments.java</mask>
     <mask>*Test.java</mask>
