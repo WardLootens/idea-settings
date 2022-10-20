@@ -33,9 +33,9 @@
     <mask>*response*.xml</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf,*.js</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
