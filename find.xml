@@ -18,7 +18,6 @@
     <mask>*IT.java</mask>
     <mask>*.bat</mask>
     <mask>!*.properties</mask>
-    <mask>*_en.properties</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
@@ -33,5 +32,6 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*_en.properties</mask>
   </component>
 </application>
