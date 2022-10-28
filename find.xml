@@ -3,7 +3,7 @@
     <option name="customScope" value="JS-own" />
     <option name="defaultScopeName" value="JS-own" />
     <option name="SEARCH_SCOPE" value="JS-own" />
-    <mask>*spec.ts</mask>
+    <option name="FILE_MASK" value="Browser.java" />
     <mask>*Arguments.java</mask>
     <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
@@ -33,5 +33,6 @@
     <mask>*IT.java</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>Browser.java</mask>
   </component>
 </application>
