@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="JS-own" />
     <option name="defaultScopeName" value="JS-own" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="JS-own" />
-    <option name="FILE_MASK" value="Browser.java" />
-    <mask>*Arguments.java</mask>
     <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
@@ -34,5 +34,6 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>Browser.java</mask>
+    <mask>*.md,*.txt</mask>
   </component>
 </application>
