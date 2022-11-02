@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="JS-own" />
-    <option name="defaultScopeName" value="JS-own" />
-    <option name="SEARCH_SCOPE" value="JS-own" />
+    <option name="customScope" value="Project 'cyberlabv20221'" />
+    <option name="defaultScopeName" value="Project 'cyberlabv20221'" />
+    <option name="SEARCH_SCOPE" value="Project 'cyberlabv20221'" />
     <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
