@@ -11,7 +11,6 @@
       <mapping ext="tns" type="PLAIN_TEXT" />
       <mapping ext="hpr" type="PLAIN_TEXT" />
       <mapping ext="readonly" type="PLAIN_TEXT" />
-      <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="ora" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="office365" type="PLAIN_TEXT" />
