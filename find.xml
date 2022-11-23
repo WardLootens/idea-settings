@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp,*.tag,*.jspf,*.js" />
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
@@ -24,7 +25,6 @@
     <mask>*response*.xml</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
-    <mask>*.jsp,*.tag,*.jspf,*.js</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*_en.properties</mask>
@@ -35,5 +35,6 @@
     <mask>*.md,*.txt</mask>
     <mask>*_fr.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp,*.tag,*.jspf,*.js</mask>
   </component>
 </application>
