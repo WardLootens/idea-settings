@@ -1,5 +1,5 @@
 <application>
-  <component name="GetterTemplates" defaultTemplateName="IntelliJ Default">
+  <component name="GetterTemplates" defaultTemplateName="Records style">
     <option name="templates">
       <list>
         <TemplateResource>
