@@ -5,10 +5,8 @@
     <option name="defaultScopeName" value="scss watched" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="scss watched" />
     <mask>*Controller.java</mask>
@@ -17,7 +15,6 @@
     <mask>Context*</mask>
     <mask>Browser*.java</mask>
     <mask>*puml</mask>
-    <mask>*.jsp</mask>
     <mask>*.jsp,*.tag,*.jspf,*.js,*.scss</mask>
     <mask>*.bat</mask>
     <mask>!*.properties</mask>
@@ -41,5 +38,6 @@
     <mask>*.jsp,*.tag,*.jspf,*.js</mask>
     <mask>*_en.properties</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
