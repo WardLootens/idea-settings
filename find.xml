@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="scss watched" />
-    <option name="defaultScopeName" value="scss watched" />
+    <option name="customScope" value="Project 'cyberlabv102'" />
+    <option name="defaultScopeName" value="Project 'cyberlabv102'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="scss watched" />
+    <option name="SEARCH_SCOPE" value="Project 'cyberlabv102'" />
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
