@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="scss watched" />
+    <option name="FILE_MASK" value="*.jsp,*.tag,*.jspf,*.js" />
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
@@ -34,10 +35,10 @@
     <mask>*.md,*.txt</mask>
     <mask>*_fr.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp,*.tag,*.jspf,*.js</mask>
     <mask>*_en.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag,*.jspf,*.js</mask>
   </component>
 </application>
