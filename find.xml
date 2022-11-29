@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
@@ -20,7 +24,6 @@
     <mask>*DTO.java</mask>
     <mask>*response*.xml</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
-    <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>pom.xml</mask>
     <mask>*IT.java</mask>
     <mask>*.scss</mask>
@@ -33,5 +36,6 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf,*.js</mask>
+    <mask>*.jsp,*.tag,*.jspf</mask>
   </component>
 </application>
