@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
@@ -26,16 +27,16 @@
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
     <mask>pom.xml</mask>
     <mask>*IT.java</mask>
-    <mask>*.scss</mask>
     <mask>Browser.java</mask>
     <mask>*.md,*.txt</mask>
     <mask>*_fr.properties</mask>
     <mask>*.xml</mask>
-    <mask>*_en.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.tag,*.jspf,*.js</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
+    <mask>*_en.properties</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
