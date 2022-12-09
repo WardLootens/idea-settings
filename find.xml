@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.puml" />
     <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
@@ -16,7 +17,6 @@
     <mask>*.md</mask>
     <mask>*.html</mask>
     <mask>Manager.java</mask>
-    <mask>*.puml</mask>
     <mask>*DTO.java</mask>
     <mask>*response*.xml</mask>
     <mask>*.java,*.jsp,*.tag,*.jspf</mask>
@@ -33,5 +33,6 @@
     <mask>*_en.properties</mask>
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
+    <mask>*.puml</mask>
   </component>
 </application>
