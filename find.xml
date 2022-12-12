@@ -34,8 +34,8 @@
     <mask>*.jsp,*.tag,*.jspf,*.js</mask>
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>*_en.properties</mask>
-    <mask>*.scss</mask>
     <mask>pom.xml</mask>
     <mask>*.puml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
