@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
     <mask>Context*</mask>
@@ -30,8 +31,8 @@
     <mask>*.jsp,*.tag,*.jspf</mask>
     <mask>pom.xml</mask>
     <mask>*.puml</mask>
-    <mask>*.scss</mask>
     <mask>*_en.properties</mask>
     <mask>*Controller.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
