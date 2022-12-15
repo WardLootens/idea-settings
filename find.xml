@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Controller.java</mask>
     <mask>!*Dao.java,*.java</mask>
     <mask>*.properties</mask>
     <mask>Context*</mask>
@@ -33,5 +32,6 @@
     <mask>*.puml</mask>
     <mask>*.scss</mask>
     <mask>*_en.properties</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>
